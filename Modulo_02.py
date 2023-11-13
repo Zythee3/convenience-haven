@@ -28,14 +28,13 @@ def avaliação_item():
         opcao_sim_nao(escolha_aprovacao)
         if escolha_aprovacao == "Sim":
             pontuacao_item = int(input("Informe a quantidade de créditos que esse item vale: "))
-            dados_avaliacao_item = f"\nItem aprovado: {escolha_aprovacao}\nCreditos: {pontuacao_item}\n"
+            dados_avaliacao_item = f"\nAprovacao do item: {escolha_aprovacao}\nCreditos: {pontuacao_item}\n"
             complemento_arquvio(escolha_item_avaliação, dados_avaliacao_item)
         
         elif escolha_aprovacao == "Nao":
             justificativa = input("Informe o motivo: ")
             dados_avaliacao_item = f"\nItem aprovado: {escolha_aprovacao}\nJustificativa: {justificativa}\nCreditos: 0"
             complemento_arquvio(escolha_item_avaliação, dados_avaliacao_item)
-
     else:
         print("Nome do produto não encontrado\n")
         avaliação_item()

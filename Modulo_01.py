@@ -43,8 +43,11 @@ def cria_item():
             escolha_doacao = int(input("[0] doar\n[1] vender\n"))
             if escolha_doacao >=0 and escolha_doacao <=1:
                 break
+            else:
+                print("Opção inválida, tente novamente")
         except ValueError:
             print("Opção inválida, tente novamente")
+
 #parte onde o id é gerado    
     for x  in range(4):
         id_letra_produto += random.choice(string.ascii_letters)
@@ -62,4 +65,3 @@ def escreve_arquivo(nome_item, conteudo):
     with open(nome_item, "w") as arquivo:
         arquivo.write(conteudo)
 
-cria_item()
