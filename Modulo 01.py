@@ -10,7 +10,6 @@ class itens:
         self.doacao = doacao
 
 itens_registrados = []
-        
 def cria_arquivo(nome_item):
     nome_item + ".txt"
     with open(nome_item, "w") as arquivo:
