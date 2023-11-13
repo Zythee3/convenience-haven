@@ -47,7 +47,10 @@ def escreve_arquivo(nome_item, conteudo):
     with open(nome_item, "a") as arquivo:
         arquivo.write(conteudo)
 
+
+#Modulo 02
 cria_item()
+
 
 
 
