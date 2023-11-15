@@ -14,12 +14,6 @@ class itens:
         self.justificacao = justificacao
 
 
-
-
-def cria_arquivo():
-    with open("itens_registrados.csv", "w") as arquivo:
-        print()
-
 def escreve_csv():
     for nome in itens_registrados:
         auxiliar_nomes.append([nome.nome_cliente, nome.nome_item, nome.descricao_item, nome.condicao_item, nome.id_produto, nome.escolha_doacao])
