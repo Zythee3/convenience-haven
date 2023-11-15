@@ -55,13 +55,15 @@ def cria_item():
     id_produto =f"{id_letra_produto} - {id_numero_produto}"
 #conclusão da função onde os dados são escrito no arquivo e o item vai para a lista dos itens registrados
     dados_item = f"Nome do cliente: {nome_cliente_item}\nNome: {nome_item}\nDescricao: {descricao_item}\nCondicao: {condicao_item}\nID: {id_produto}\nOpcao doar(0)/vender(1): {escolha_doacao}"
-    escreve_arquivo(nome_item, dados_item)
     novo_item = itens(nome_cliente_item, nome_item, descricao_item, condicao_item, id_produto, escolha_doacao)
-    itens_registrados.append(novo_item)
-    nome_itens_registrados.append(nome_item)
+    escreve_arquivo(nome_item, dados_item)
+    # itens_registrados.append(novo_item)
+    # nome_itens_registrados.append(nome_item)
 
 def escreve_arquivo(nome_item, conteudo):
     nome_item + ".txt"
     with open(nome_item, "w") as arquivo:
         arquivo.write(conteudo)
+
+
 

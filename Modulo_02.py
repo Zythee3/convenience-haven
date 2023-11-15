@@ -1,4 +1,4 @@
-from Modulo_01 import *
+from Novo_Modulo_01 import *
 
 def opcao_sim_nao(variavel):
     while True:
@@ -12,31 +12,46 @@ def opcao_sim_nao(variavel):
             print("opção inválida, tente novamente\n\n")
             avaliação_item()
             break
-def complemento_arquvio(nome_arquivo, conteudo):
-    nome_arquivo + ".txt"
-    with open(nome_arquivo, "a")as arquivo:
-        arquivo.write(conteudo)
+# def complemento_arquvio(conteudo):
+#     with open(, "a")as arquivo:
+#         arquivo.write(conteudo)
 
 
 def avaliação_item():
-    for item in itens_registrados:
-        print(f"Nome: {item.nome}\nCondição: {item.condicao}\n\n")
-    escolha_item_avaliação = input("Digite o nome do item que deseja avaliar: ")
-    if escolha_item_avaliação.capitalize() in nome_itens_registrados:
-        escolha_aprovacao = input("O item selecionado possui aprovação para venda ou doação?: ")
-        escolha_aprovacao = escolha_aprovacao.capitalize()
-        opcao_sim_nao(escolha_aprovacao)
-        if escolha_aprovacao == "Sim":
-            pontuacao_item = int(input("Informe a quantidade de créditos que esse item vale: "))
-            dados_avaliacao_item = f"\nAprovacao do item: {escolha_aprovacao}\nCreditos: {pontuacao_item}\n"
-            complemento_arquvio(escolha_item_avaliação, dados_avaliacao_item)
+    with open("itens_registrados.csv", "r") as arquivo:
+        leitor_csv = csv.DictReader(arquivo)
+        auxiliar = []
         
-        elif escolha_aprovacao == "Nao":
-            justificativa = input("Informe o motivo: ")
-            dados_avaliacao_item = f"\nItem aprovado: {escolha_aprovacao}\nJustificativa: {justificativa}\nCreditos: 0"
-            complemento_arquvio(escolha_item_avaliação, dados_avaliacao_item)
-    else:
-        print("Nome do produto não encontrado\n")
-        avaliação_item()
+        for linha in leitor_csv:
+            print(f"\nNome do item: {linha['Nome do item']}\nCondição: {linha['condicao']}\n\n")
+            auxiliar.append(f"{linha['Nome do item']}")
+            
+
+        escolha_item_avaliação = input("Digite o nome do item que deseja avaliar: ")
+        if escolha_item_avaliação in auxiliar:
+            escolha_aprovacao = input("O item selecionado possui aprovação para venda ou doação?: ")
+            escolha_aprovacao = escolha_aprovacao.capitalize()
+            opcao_sim_nao(escolha_aprovacao)
+            if escolha_aprovacao == "Sim":
+                pontuacao_item = int(input("Informe a quantidade de créditos que esse item vale: "))
+                for linha in auxiliar:
+                    if linha == escolha_item_avaliação:
+                        with open("itens_registrados.csv", "a", newline='') as arquivo_:
+                            escritor_csv = csv.writer(arquivo)
+                            
+                            escritor_csv.writerow(linha)
+                        
+                            
+
+
+                
+            
+            # elif escolha_aprovacao == "Nao":
+            #     justificativa = input("Informe o motivo: ")
+            #     dados_avaliacao_item = f"\nItem aprovado: {escolha_aprovacao}\nJustificativa: {justificativa}\nCreditos: 0"
+            #     complemento_arquvio(escolha_item_avaliação, dados_avaliacao_item)
+        else:
+            print("Nome do produto não encontrado\n")
+            avaliação_item()
 
 avaliação_item()
