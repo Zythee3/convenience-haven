@@ -22,11 +22,11 @@ def cria_arquivo():
 
 def escreve_csv():
     for nome in itens_registrados:
-        dados.append([nome.nome_cliente, nome.nome_item, nome.descricao_item, nome.condicao_item, nome.id_produto, nome.escolha_doacao])
+        auxiliar_nomes.append([nome.nome_cliente, nome.nome_item, nome.descricao_item, nome.condicao_item, nome.id_produto, nome.escolha_doacao])
         id_dos_produtos.append(nome.id_produto)
     with open("itens_registrados.csv", "a", newline='') as arquivo:
         escritor_csv = csv.writer(arquivo)
-        for linha in dados:
+        for linha in auxiliar_nomes:
             escritor_csv.writerow(linha)
 
 
@@ -40,6 +40,7 @@ dados = [
     ['Nome do cliente', 'Nome do item', 'Descricao', 'condicao', 'id do produto', 'escolha de doacao', 'aprovacao', 'pontos', 'jutificacao']
     
 ]
+auxiliar_nomes = []
 id_dos_produtos = []
 
 def cria_item():
@@ -67,5 +68,4 @@ def cria_item():
     novo_item = itens(nome_cliente, nome_item, descricao_item, condicao_item, id_produto, escolha_doacao, None, None, None)
     itens_registrados.append(novo_item)
     escreve_csv()
-
 

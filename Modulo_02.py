@@ -36,20 +36,67 @@ def avaliação_item():
                 pontuacao_item = int(input("Informe a quantidade de créditos que esse item vale: "))
                 for linha in auxiliar:
                     if linha == escolha_item_avaliação:
-                        with open("itens_registrados.csv", "a", newline='') as arquivo_:
-                            escritor_csv = csv.writer(arquivo)
-                            
-                            escritor_csv.writerow(linha)
-                        
-                            
+                        # Abre o arquivo csv para leitura
+                        with open('itens_registrados.csv', newline='') as arquivo_entrada:
+                            # Cria um objeto DictReader
+                            leitor = csv.DictReader(arquivo_entrada, delimiter=',')
+                            # Cria uma lista vazia para armazenar as linhas modificadas
+                            linhas = []
+                            # Itera sobre as linhas do arquivo csv
+                            for linha in leitor:
+                                # Verifica se o nome do item é 'Cadeira'
+                                if linha['Nome do item'] == escolha_item_avaliação:
+                                    # Atribui um novo valor à chave 'Descricao'
+                                    linha['aprovacao'] = 'Aprovado'
+                                    linha['pontos'] = pontuacao_item
+                                # Adiciona a linha modificada à lista
+                                linhas.append(linha)
+                                
 
+                        # Abre o arquivo csv para escrita
+                        with open('itens_registrados.csv', 'a', newline='') as arquivo_saida:
+                            # Cria um objeto DictWriter
+                            escritor = csv.DictWriter(arquivo_saida, delimiter=',', fieldnames=leitor.fieldnames)
+                            # Escreve o cabeçalho do arquivo csv
+                            escritor.writeheader()
+                            # Escreve as linhas modificadas no arquivo csv
+                            escritor.writerows(linhas)
 
-                
             
-            # elif escolha_aprovacao == "Nao":
-            #     justificativa = input("Informe o motivo: ")
-            #     dados_avaliacao_item = f"\nItem aprovado: {escolha_aprovacao}\nJustificativa: {justificativa}\nCreditos: 0"
-            #     complemento_arquvio(escolha_item_avaliação, dados_avaliacao_item)
+            elif escolha_aprovacao == "Nao":
+                justificativa = input("Informe o motivo: ")
+                for linha in auxiliar:
+                    if linha == escolha_item_avaliação:
+                        # Abre o arquivo csv para leitura
+                        with open('itens_registrados.csv', newline='') as arquivo_entrada:
+                            # Cria um objeto DictReader
+                            leitor = csv.DictReader(arquivo_entrada, delimiter=',')
+                            # Cria uma lista vazia para armazenar as linhas modificadas
+                            linhas = []
+                            # Itera sobre as linhas do arquivo csv
+                            for linha in leitor:
+                                # Verifica se o nome do item é 'Cadeira'
+                                if linha['Nome do item'] == escolha_item_avaliação:
+                                    # Atribui um novo valor à chave 'Descricao'
+                                    linha['aprovacao'] = 'Reprovado'
+                                    
+                                    linha['justificacao'] = justificativa
+                                    # Adiciona a linha modificada à lista
+                                    linhas.append(linha)
+                                    
+                                    
+
+                                # Abre o arquivo csv para escrita
+                        with open('itens_registrados.csv', 'a', newline='') as arquivo_saida:
+                                    # Cria um objeto DictWriter
+                                    escritor = csv.DictWriter(arquivo_saida, delimiter=',', fieldnames=leitor.fieldnames)
+                                    # Escreve o cabeçalho do arquivo csv
+                                    escritor.writeheader()
+                                    # Escreve as linhas modificadas no arquivo csv
+                                    escritor.writerows(linhas)
+            else:
+                print("Opção inválida!!")       
+                avaliação_item()                 
         else:
             print("Nome do produto não encontrado\n")
             avaliação_item()
