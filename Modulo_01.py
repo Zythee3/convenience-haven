@@ -69,3 +69,4 @@ def cria_item():
     itens_registrados.append(novo_item)
     escreve_csv()
 
+

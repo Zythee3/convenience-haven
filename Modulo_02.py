@@ -104,5 +104,5 @@ def avaliação_item():
         else:
             print("Nome do produto não encontrado\n")
             avaliação_item()
-
+cria_item()
 avaliação_item()
