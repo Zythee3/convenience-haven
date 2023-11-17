@@ -14,12 +14,6 @@ class itens:
         self.justificacao = justificacao
 
 
-
-
-def cria_arquivo():
-    with open("itens_registrados.csv", "w") as arquivo:
-        print()
-
 def escreve_csv():
     for nome in itens_registrados:
         auxiliar_nomes.append([nome.nome_cliente, nome.nome_item, nome.descricao_item, nome.condicao_item, nome.id_produto, nome.escolha_doacao])
@@ -37,7 +31,7 @@ def escreve_arquvio(conteudo):
 
 itens_registrados = []
 dados = [
-    ['Nome do cliente', 'Nome do item', 'Descricao', 'condicao', 'id do produto', 'escolha de doacao', 'aprovacao', 'pontos', 'justificacao']
+    ['Nome do cliente', 'Nome do item', 'Descricao', 'condicao', 'id do produto', 'escolha de doacao', 'aprovacao', 'pontos', 'jutificacao']
     
 ]
 auxiliar_nomes = []
@@ -65,7 +59,7 @@ def cria_item():
                 print("Opção inválida, tente novamente")
         except ValueError:
             print("Opção inválida, tente novamente")
-    novo_item = itens(nome_cliente, nome_item, descricao_item, condicao_item, id_produto, escolha_doacao, None, None, None)
+    novo_item = itens(nome_cliente, nome_item, descricao_item, condicao_item, id_produto, escolha_doacao, "", "", "")
     itens_registrados.append(novo_item)
     escreve_csv()
 
