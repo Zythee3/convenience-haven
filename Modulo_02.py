@@ -1,4 +1,4 @@
-from Novo_Modulo_01 import *
+from Modulo_01 import *
 
 def opcao_sim_nao(variavel):
     while True:
@@ -19,7 +19,7 @@ def avaliação_item():
     with open("itens_registrados.csv", "r") as arquivo:
         leitor_csv = csv.DictReader(arquivo)
         auxiliar = []
-        
+        print("\n\n------ Menu de avaliação de item ------")
         for linha in leitor_csv:
             print(f"\nNome do item: {linha['Nome do item']}\nCondição: {linha['condicao']}\n\n")
             auxiliar.append(f"{linha['Nome do item']}")
@@ -104,5 +104,3 @@ def avaliação_item():
         else:
             print("Nome do produto não encontrado\n")
             avaliação_item()
-cria_item()
-avaliação_item()

@@ -38,6 +38,7 @@ auxiliar_nomes = []
 id_dos_produtos = []
 
 def cria_item():
+    print("\n\n------ Menu de cadastramento de item ------")
     print("Informe os dados abaixo!")
     nome_cliente = input("Nome do cliente: ")
     nome_cliente = nome_cliente.capitalize()
