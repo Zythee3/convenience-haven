@@ -1,13 +1,6 @@
 import csv
-# from itensregistrados import *
 
-class itens:
-    def __init__ (self, nome, descricao, condicao, id, doacao):
-        self.nome = nome
-        self.descricao = descricao
-        self.condicao = condicao
-        self.id = id
-        self.doacao = doacao
+
         
         
 
@@ -20,9 +13,9 @@ def ler_itens():
             print('------------------------------')
             for coisa in ler:
                 nomeItem = coisa['Nome do item']
-                idItem = coisa['id']
+                idItem = coisa['id do produto']
                 creditos = coisa['Creditos']
-                print(f'Item: {nomeItem}\nID do item: {idItem}\nCréditos retornados: {creditos}')
+                print(f'Item: {nomeItem}ID do item: {idItem} Créditos retornados: {creditos}')
                 
     except FileNotFoundError:
         print(f'O arquivo itensregistrados não foi encontrado.')
@@ -44,33 +37,54 @@ def encontrarCliente(nome_cliente):
         print(f'Ocorreu um erro: {e}')
   
 def trocarItens(id_item):
-    
-    nome_cliente = input('Insira o seu nome:')
-    if encontrarCliente(nome_cliente):
-        try:
-            with open('itensregistrados.csv','r') as arquivo:
+    try:
+        nome_cliente = input('Insira o seu nome:')
+        #verificar se o cliente existe no sistema
+        if encontrarCliente(nome_cliente) == True:
+            with open('itensregistrados','r') as arquivo:
                 ler = csv.DictReader(arquivo)
-                lista = list(ler)
-                nome_item = None
-                creditos_necessarios = 0
-                for linha in lista:
-                    if linha['id do produto'] == id_item:
-                        nome_item = linha['Nome do item']
+                itens = list(ler)
+                
+                for item in itens:
+                    if item['id do produto'] == id_item:
+                        nome_item = item['Nome do item']
+                        #captura a quantidade de créditos que o cliente precisa para adquirir o produto
+                        creditos_necessarios = int(item.get('creditos',0))
                         
-                        creditos_necessarios = int(linha.get('Creditos',0))
                         if creditos_necessarios <= 0:
-                            print(f' O item com o ID {nome_item} ainda não possui créditos adquiridos.')
-                            return 
-                        creditos_cliente = int(linha.get('Creditos',0))
-                        elif creditos_necessarios > creditos_cliente:
-                            print(f'Cliente {nome_cliente} não possui créditos sulficientes para trocar pelo item.')
+                            print(f'Item com ID {id_item} ainda não possui créditos adicionados a ele.')
+                            return
+                        
+                        creditos_cliente = int(item.get('creditos',0))
+                        
+                        if creditos_necessarios > creditos_cliente:
+                            print(f'O cliente {nome_cliente} não possui créditos sulficientes para o item.')
                             return
                         else:
-                            linha['Creditos'] = creditos_necessarios
+                            item['creditos'] -= creditos_necessarios
+                            
+            with open('itensregistrados.csv','w',newline='') as arquivomodificado:
+                escrever = csv.DictWriter('itensregistrados.csv',fieldnames=ler.fieldnames)
+                escrever.writeheader()
+                escrever.writerows(itens)
+                
+            print(f'Troca realizada do item {nome_item} com sucesso pelo cliente {nome_cliente}.')
+        else:
+            print(f'Cliente {nome_cliente} não encontrado.')
+    except FileNotFoundError:
+        print('O arquivo itensregistrados.csv não foi encontrado.')
+    except Exception as e:
+        print(f'Ocorreu um erro: {e}')
+        
+                   
+    
                         
 def main():
     ler_itens()
     id_item = input('Insira o ID do item que deseja: ')
+    trocarItens(id_item)
+    
+main()
     
     
             
