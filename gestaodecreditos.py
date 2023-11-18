@@ -1,32 +1,38 @@
 import csv
+import os
 def adicionar_creditos(nome_item,credito):
     try:
-        with open("itensregistrados.csv", 'r', newline='') as arquivo:
+        if not os.path.exists('itensregistrados.csv'):
+            raise FileNotFoundError(f'O arquivo itensregistrados.csv não foi encontrado.')
+
+        # Lê o arquivo CSV
+        with open('itensregistrados.csv', 'r', newline='') as arquivo:
             ler = csv.DictReader(arquivo)
-            fieldnames = ler.fieldnames + ['Creditos']
-            
-        with open('itensregistrados.csv','r',newline='') as arquivo:
-            ler = csv.DictReader(arquivo)
+            fieldnames = ler.fieldnames
             itens = list(ler)
-                
+
+        encontrado = False  
+        # Marca se o item foi encontrado no arquivo
+
         for item in itens:
             if item['Nome do item'] == nome_item:
-                item['Creditos'] = credito    
+                item['Creditos'] = credito
+                encontrado = True
+                break  
 
-        #     itens = list(ler)
-        # encontrado = False
-        # for item in itens:
-        #         if item['Nome do item'] == nome_item:
-        #             item['Creditos'] = credito
-        #             encontrado = True
-        #             break
-        # if not encontrado:
-        #     print(f'O item {nome_item} não foi encontrado no arquivo.')
-                    
-        # with open('itensregistrados.csv','a',newline ='') as arquivoModificado:
-        #     escrever = csv.DictWriter(arquivoModificado, fieldnames = ler.fieldnames + ['Creditos'])
-        #     escrever.writeheader()
-        #     escrever.writerows(itens) 
+        
+        if not encontrado:
+            print(f'O item "{nome_item}" não foi encontrado no arquivo.')
+
+        with open('itensregistrados.csv', 'w', newline='') as arquivo_modificado:
+            escrever = csv.DictWriter(arquivo_modificado, fieldnames=fieldnames + ['Creditos'])
+            escrever.writeheader()
+            escrever.writerows(itens)
+
+        print(f'Créditos para o item "{nome_item}" adicionados com sucesso.')
+ 
+        
+        
     except FileNotFoundError:
         print(f'O arquivo itensregistrados.csv não foi encontrado.')
     except Exception as e:
@@ -41,8 +47,9 @@ def mostrarItens():
             print('-------------------------------------') 
             for coisa in ler:
                 nomeItem = coisa['Nome do item']
+                condicao = coisa['condicao']
                 aprovacao = coisa['aprovacao']
-                print(f'Item: {nomeItem}, Aprovação: {aprovacao}')
+                print(f'Item: {nomeItem},Condição: {condicao} ,Aprovação: {aprovacao}')
     except FileNotFoundError:
         print(f'O arquivo itensregistrados.csv não foi encontrado.')
     except Exception as e:
