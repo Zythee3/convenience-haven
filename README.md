@@ -1,10 +1,10 @@
 
 <p align="center">
-![image](https://github.com/Zythee3/convenience-haven/assets/131277691/e60f811f-ecf1-4dd7-b48c-00971b4d8c5f)
+  <img src="![image](https://github.com/Zythee3/convenience-haven/assets/131277691/af3bca88-7dfc-4c00-ab34-74f3afe774ec)" alt="Alternate Text" />
 </p>
 
 
-### Convenience Haven
+# Convenience Haven
 Este projeto é um sistema de gerenciamento para a loja Convenience Haven. Ele permite que o gerente da loja acesse relatórios e estatísticas sobre a atividade do sistema.
 
 ## Funcionalidades
