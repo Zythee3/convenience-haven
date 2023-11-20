@@ -1,0 +1,41 @@
+Nome do cliente,Nome do item,Descricao,condicao,id do produto,escolha de doacao,aprovacao,pontos,justificacao,Creditos,Data da Transacao
+Elizabeth       ,Telefone     ,Eletronico ,horrivel   ,Ppc5 - 601    ,                1 ,Reprovado ,    68 ,           0 ,     995 ,2023-10-01
+Adam            ,Camisa       ,Vestuario  ,novo       ,UhS6 - 290    ,                0 ,Aprovado  ,    45 ,           1 ,     816 ,2023-05-28
+Rebecca         ,Caneta       ,Utensilio  ,saudavel   ,Wtd2 - 369    ,                1 ,Reprovado ,    73 ,           1 ,     930 ,2023-05-28
+Gina            ,Livro        ,Livro      ,saudavel   ,flV3 - 042    ,                1 ,Aprovado  ,    87 ,           0 ,     954 ,2023-06-28
+Elizabeth       ,Camisa       ,Vestuario  ,horrivel   ,etl0 - 497    ,                1 ,Reprovado ,    47 ,           1 ,     930 ,2023-09-13
+Sue             ,Garrafa      ,Utensilio  ,horrivel   ,tmY7 - 648    ,                1 ,Aprovado  ,    93 ,           0 ,     946 ,2023-01-18
+Joe             ,Relogio      ,Acessorio  ,bom estado ,tvx9 - 915    ,                0 ,Aprovado  ,    58 ,           0 ,     704 ,2023-06-28
+Paul            ,Livro        ,Livro      ,novo       ,PdQ6 - 397    ,                1 ,Reprovado ,    68 ,           0 ,     514 ,2023-01-08
+Joe             ,Camisa       ,Vestuario  ,bom estado ,YOS6 - 521    ,                0 ,Aprovado  ,    66 ,           1 ,     608 ,2023-06-28
+Rebecca         ,Telefone     ,Eletronico ,usado      ,TTX5 - 458    ,                0 ,Reprovado ,    44 ,           1 ,     985 ,2023-06-28
+Kristine        ,Livro        ,Livro      ,usado      ,Wju1 - 347    ,                0 ,Reprovado ,    53 ,           1 ,     816 ,2023-06-28
+Gabriel         ,Caneca       ,Utensilio  ,saudavel   ,bsv7 - 241    ,                0 ,Reprovado ,     8 ,           0 ,     514 ,2023-09-13
+Rebecca         ,Garrafa      ,Utensilio  ,usado      ,lQn6 - 895    ,                1 ,Aprovado  ,    81 ,           0 ,     611 ,2023-04-06
+Andrew          ,Garrafa      ,Utensilio  ,usado      ,SCa2 - 565    ,                1 ,Aprovado  ,    27 ,           1 ,     504 ,2023-09-24
+Maureen         ,Chaveiro     ,Acessorio  ,saudavel   ,sTJ7 - 728    ,                0 ,Aprovado  ,    81 ,           1 ,     704 ,2023-01-18
+Paul            ,Laptop       ,Eletronico ,usado      ,FYq5 - 226    ,                0 ,Reprovado ,    57 ,           0 ,     930 ,2023-01-08
+Andrew          ,Telefone     ,Eletronico ,horrivel   ,xNJ5 - 863    ,                0 ,Reprovado ,    11 ,           1 ,     540 ,2022-11-20
+Kristine        ,Mochila      ,Vestuario  ,usado      ,nEm0 - 539    ,                1 ,Aprovado  ,    56 ,           0 ,     624 ,2023-06-28
+Jessica         ,Livro        ,Livro      ,bom estado ,lEL1 - 830    ,                1 ,Reprovado ,    13 ,           1 ,     565 ,2023-09-24
+Rebecca         ,Garrafa      ,Utensilio  ,novo       ,pZI4 - 963    ,                1 ,Reprovado ,     5 ,           1 ,     816 ,2023-05-28
+Stanley         ,Mochila      ,Vestuario  ,saudavel   ,Vao2 - 680    ,                0 ,Aprovado  ,    17 ,           1 ,     578 ,2023-07-06
+Stanley         ,Mochila      ,Vestuario  ,novo       ,BUz4 - 455    ,                0 ,Aprovado  ,    29 ,           1 ,     664 ,2023-08-02
+Stephanie       ,Camisa       ,Vestuario  ,usado      ,mVQ7 - 362    ,                0 ,Reprovado ,    87 ,           0 ,     578 ,2023-10-26
+Vicki           ,Garrafa      ,Utensilio  ,usado      ,HzG9 - 579    ,                1 ,Reprovado ,    61 ,           1 ,     664 ,2023-02-17
+Christopher     ,Chaveiro     ,Acessorio  ,horrivel   ,rhl6 - 959    ,                1 ,Reprovado ,    74 ,           1 ,     698 ,2023-07-19
+Stanley         ,Camisa       ,Vestuario  ,usado      ,lBn6 - 439    ,                0 ,Reprovado ,     7 ,           1 ,     555 ,2023-10-26
+Matthew         ,Laptop       ,Eletronico ,horrivel   ,DjB8 - 269    ,                1 ,Reprovado ,    12 ,           1 ,     717 ,2023-09-18
+Gwendolyn       ,Chaveiro     ,Acessorio  ,usado      ,GNN6 - 167    ,                1 ,Aprovado  ,    25 ,           0 ,     698 ,2023-11-08
+Matthew         ,Garrafa      ,Utensilio  ,novo       ,EZY7 - 200    ,                0 ,Reprovado ,    76 ,           0 ,     839 ,2022-12-19
+Matthew         ,Chaveiro     ,Acessorio  ,horrivel   ,hZy6 - 239    ,                0 ,Aprovado  ,    31 ,           0 ,     578 ,2023-10-26
+Kristen         ,Mochila      ,Vestuario  ,saudavel   ,iOB5 - 616    ,                1 ,Aprovado  ,    58 ,           1 ,     714 ,2023-07-06
+Kristen         ,Mochila      ,Vestuario  ,horrivel   ,dFp9 - 638    ,                0 ,Reprovado ,     7 ,           1 ,     578 ,2023-08-03
+Jessica         ,Telefone     ,Eletronico ,saudavel   ,uVP5 - 698    ,                1 ,Reprovado ,    99 ,           1 ,     572 ,2023-01-16
+Matthew         ,Chaveiro     ,Acessorio  ,saudavel   ,YJD0 - 181    ,                1 ,Reprovado ,    79 ,           0 ,     855 ,2023-10-14
+Gwendolyn       ,Chaveiro     ,Acessorio  ,bom estado ,Bdg9 - 342    ,                1 ,Reprovado ,     3 ,           0 ,     856 ,2023-09-11
+Kristen         ,Chaveiro     ,Acessorio  ,usado      ,DMA4 - 128    ,                1 ,Aprovado  ,    24 ,           0 ,     664 ,2023-02-17
+Vicki           ,Garrafa      ,Utensilio  ,usado      ,pIB5 - 658    ,                1 ,Aprovado  ,    51 ,           1 ,     664 ,2023-04-22
+Alicia          ,Camisa       ,Vestuario  ,saudavel   ,RXi2 - 392    ,                1 ,Reprovado ,    93 ,           1 ,     664 ,2023-01-22
+Christopher     ,Telefone     ,Eletronico ,horrivel   ,hXv0 - 256    ,                0 ,Reprovado ,    35 ,           0 ,     756 ,2023-10-24
+William         ,Caneta       ,Utensilio  ,novo       ,Pom8 - 205    ,                0 ,Reprovado ,    28 ,           1 ,     509 ,2023-04-22
