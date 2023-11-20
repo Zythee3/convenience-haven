@@ -52,14 +52,3 @@ class Manager:
         }
 manager = Manager('itensregistrados.csv')
 
-# Define the start and end dates for the report
-# Generate a report for a specific category and minimum total value
-
-# start_date = datetime.strptime('2022-01-01', '%Y-%m-%d')
-# end_date = datetime.strptime('2023-12-31', '%Y-%m-%d')
-# var = None
-# report = manager.generate_report(start_date, end_date,var, 0)
-
-# # Print the report
-# print(report)
-

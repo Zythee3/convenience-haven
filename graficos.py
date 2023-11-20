@@ -2,30 +2,42 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from datetime import datetime
 from collections import Counter
+from menu import *
+from gera_relatorio import *
+import matplotlib.dates as mdates
 
-dados = pd.read_csv('itensregistrados.csv')
-counter = Counter(dados['Nome do item'])
+def graphics_1(report):
 
-# Pegar os 10 itens mais comuns
-itens_populares = counter.most_common(10)
+    dados = report['total_sales']
+    counter = Counter(report['product_counts'])
+    itens_populares = counter.most_common(10)
+    itens, contagens = zip(*itens_populares)
 
-# Separar os itens e suas contagens
-itens, contagens = zip(*itens_populares)
+    fig, ax = plt.subplots(figsize=(10, 7))
+    ax.bar(itens, contagens, color='skyblue', edgecolor='blue')
+    ax.set_title('Itens mais populares', fontsize=15, fontweight='bold')
+    ax.set_xlabel('Itens', fontsize=12)
+    ax.set_ylabel('Contagens', fontsize=12)
+    plt.xticks(rotation=45)
+    plt.show()
 
-# Criar uma figura e um conjunto de subtramas
+def graphics_2(start_date):
+    df = pd.read_csv('itensregistrados.csv')
+    df['Data da Transacao'] = pd.to_datetime(df['Data da Transacao']).dt.date
 
-fig, ax = plt.subplots(figsize=(10, 7))
+    start_date = start_date.date()
+    df = df[df['Data da Transacao'] >= start_date]
+    df = df.sort_values('Data da Transacao')
 
-# Criar um gráfico de barras com itens e contagens
-ax.bar(itens, contagens, color='', edgecolor='blue')
+    item_counts = df.groupby('Data da Transacao')['Nome do item'].count()
 
-# Adicionar títulos e rótulos
-ax.set_title('Itens mais populares', fontsize=15, fontweight='bold')
-ax.set_xlabel('Itens', fontsize=12)
-ax.set_ylabel('Contagens', fontsize=12)
+    item_counts.plot(kind='bar', figsize=(10, 7))
 
-# Girar os rótulos do eixo x
-plt.xticks(rotation=45)
+    ax = plt.gca()
+    # ax.xaxis.set_major_formatter(mdates.DateFormatter('%Y-%m-%d'))
 
-# Mostrar o gráfico
-plt.show()
+    plt.title('Contagem de Itens por Data')
+    plt.xlabel('Data')
+    plt.ylabel('Contagem de Itens')
+    plt.xticks(rotation=45)
+    plt.show()
