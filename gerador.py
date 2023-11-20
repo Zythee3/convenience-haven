@@ -25,7 +25,7 @@ dates = [fake.date_between(start_date='-1y', end_date='today') for _ in range(20
 
 with open('itensregistrados.csv', 'a', newline='') as file:
     writer = csv.writer(file)
-    for _ in range(20):
+    for _ in range(500):
         item = random.choice(list(item_to_tag.keys()))
         tag = item_to_tag[item]
         row = [

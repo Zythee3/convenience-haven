@@ -6,13 +6,15 @@ from gera_relatorio import *
 from graficos import *
 
 def generate_report(start_date, end_date, category):
+
     if category == 'Todos': category = None
     
     start_date = datetime.strptime(str(start_date), '%Y-%m-%d')
     end_date = datetime.strptime(str(end_date), '%Y-%m-%d')
     report = manager.generate_report(start_date, end_date, category, 0)
     messagebox.showinfo("Relatório", f"Gerando relatório de {start_date} a {end_date} para a categoria {category if category is not None else 'Todos'}...")
-    graphics_1(report) 
+
+    graphics_1(report)
     graphics_2(start_date) 
 
 

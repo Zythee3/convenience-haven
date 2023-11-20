@@ -11,16 +11,18 @@ def graphics_1(report):
     dados = report['total_sales']
     counter = Counter(report['product_counts'])
     itens_populares = counter.most_common(10)
-    itens, contagens = zip(*itens_populares)
+
+    if itens_populares:
+        itens, contagens = zip(*itens_populares)
 
     fig, ax = plt.subplots(figsize=(10, 7))
     ax.bar(itens, contagens, color='skyblue', edgecolor='blue')
     ax.set_title('Itens mais populares', fontsize=15, fontweight='bold')
     ax.set_xlabel('Itens', fontsize=12)
     ax.set_ylabel('Contagens', fontsize=12)
-    plt.xticks(rotation=45)
+    plt.xticks(rotation=90)
     plt.show()
-
+    
 def graphics_2(start_date):
     df = pd.read_csv('itensregistrados.csv')
     df['Data da Transacao'] = pd.to_datetime(df['Data da Transacao']).dt.date
@@ -39,5 +41,5 @@ def graphics_2(start_date):
     plt.title('Contagem de Itens por Data')
     plt.xlabel('Data')
     plt.ylabel('Contagem de Itens')
-    plt.xticks(rotation=45)
+    plt.xticks(rotation=90)
     plt.show()
