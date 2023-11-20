@@ -1,0 +1,981 @@
+Nome do cliente,Nome do item,Descricao,condicao,id do produto,escolha de doacao,aprovacao,pontos,justificacao,Creditos,Data da Transacao
+Elizabeth,Telefone,Eletronico,horrivel,Ppc5 - 601,1,Reprovado,68,0,995,2023-10-01
+Adam,Camisa,Vestuario,novo,UhS6 - 290,0,Aprovado,45,1,816,2023-05-28
+Rebecca,Caneta,Utensilio,saudavel,Wtd2 - 369,1,Reprovado,73,1,930,2023-05-28
+Gina,Livro,Livro,saudavel,flV3 - 042,1,Aprovado,87,0,954,2023-06-28
+Elizabeth,Camisa,Vestuario,horrivel,etl0 - 497,1,Reprovado,47,1,930,2023-09-13
+Sue,Garrafa,Utensilio,horrivel,tmY7 - 648,1,Aprovado,93,0,946,2023-01-18
+Joe,Relogio,Acessorio,bom estado,tvx9 - 915,0,Aprovado,58,0,704,2023-06-28
+Paul,Livro,Livro,novo,PdQ6 - 397,1,Reprovado,68,0,514,2023-01-08
+Joe,Camisa,Vestuario,bom estado,YOS6 - 521,0,Aprovado,66,1,608,2023-06-28
+Rebecca,Telefone,Eletronico,usado,TTX5 - 458,0,Reprovado,44,1,985,2023-06-28
+Kristine,Livro,Livro,usado,Wju1 - 347,0,Reprovado,53,1,816,2023-06-28
+Gabriel,Caneca,Utensilio,saudavel,bsv7 - 241,0,Reprovado,8,0,514,2023-09-13
+Rebecca,Garrafa,Utensilio,usado,lQn6 - 895,1,Aprovado,81,0,611,2023-04-06
+Andrew,Garrafa,Utensilio,usado,SCa2 - 565,1,Aprovado,27,1,504,2023-09-24
+Maureen,Chaveiro,Acessorio,saudavel,sTJ7 - 728,0,Aprovado,81,1,704,2023-01-18
+Paul,Laptop,Eletronico,usado,FYq5 - 226,0,Reprovado,57,0,930,2023-01-08
+Andrew,Telefone,Eletronico,horrivel,xNJ5 - 863,0,Reprovado,11,1,540,2022-11-20
+Kristine,Mochila,Vestuario,usado,nEm0 - 539,1,Aprovado,56,0,624,2023-06-28
+Jessica,Livro,Livro,bom estado,lEL1 - 830,1,Reprovado,13,1,565,2023-09-24
+Rebecca,Garrafa,Utensilio,novo,pZI4 - 963,1,Reprovado,5,1,816,2023-05-28
+Stanley,Mochila,Vestuario,saudavel,Vao2 - 680,0,Aprovado,17,1,578,2023-07-06
+Stanley,Mochila,Vestuario,novo,BUz4 - 455,0,Aprovado,29,1,664,2023-08-02
+Stephanie,Camisa,Vestuario,usado,mVQ7 - 362,0,Reprovado,87,0,578,2023-10-26
+Vicki,Garrafa,Utensilio,usado,HzG9 - 579,1,Reprovado,61,1,664,2023-02-17
+Christopher,Chaveiro,Acessorio,horrivel,rhl6 - 959,1,Reprovado,74,1,698,2023-07-19
+Stanley,Camisa,Vestuario,usado,lBn6 - 439,0,Reprovado,7,1,555,2023-10-26
+Matthew,Laptop,Eletronico,horrivel,DjB8 - 269,1,Reprovado,12,1,717,2023-09-18
+Gwendolyn,Chaveiro,Acessorio,usado,GNN6 - 167,1,Aprovado,25,0,698,2023-11-08
+Matthew,Garrafa,Utensilio,novo,EZY7 - 200,0,Reprovado,76,0,839,2022-12-19
+Matthew,Chaveiro,Acessorio,horrivel,hZy6 - 239,0,Aprovado,31,0,578,2023-10-26
+Kristen,Mochila,Vestuario,saudavel,iOB5 - 616,1,Aprovado,58,1,714,2023-07-06
+Kristen,Mochila,Vestuario,horrivel,dFp9 - 638,0,Reprovado,7,1,578,2023-08-03
+Jessica,Telefone,Eletronico,saudavel,uVP5 - 698,1,Reprovado,99,1,572,2023-01-16
+Matthew,Chaveiro,Acessorio,saudavel,YJD0 - 181,1,Reprovado,79,0,855,2023-10-14
+Gwendolyn,Chaveiro,Acessorio,bom estado,Bdg9 - 342,1,Reprovado,3,0,856,2023-09-11
+Kristen,Chaveiro,Acessorio,usado,DMA4 - 128,1,Aprovado,24,0,664,2023-02-17
+Vicki,Garrafa,Utensilio,usado,pIB5 - 658,1,Aprovado,51,1,664,2023-04-22
+Alicia,Camisa,Vestuario,saudavel,RXi2 - 392,1,Reprovado,93,1,664,2023-01-22
+Christopher,Telefone,Eletronico,horrivel,hXv0 - 256,0,Reprovado,35,0,756,2023-10-24
+William,Caneta,Utensilio,novo,Pom8 - 205,0,Reprovado,28,1,509,2023-04-22
+Mark,Telefone,Eletronico,horrivel,bJM5 - 538,1,Reprovado,21,0,889,2023-01-31
+Karen,Caneca,Utensilio,novo,MhB4 - 226,0,Reprovado,68,1,740,2022-12-13
+Mark,Livro,Livro,usado,fYp5 - 337,0,Reprovado,70,0,919,2022-12-13
+Kevin,Telefone,Eletronico,usado,KMr7 - 479,0,Reprovado,98,1,919,2023-07-31
+Leonard,Caneca,Utensilio,novo,zhY1 - 557,0,Aprovado,62,0,636,2023-05-19
+Karen,Telefone,Eletronico,saudavel,CWO2 - 975,1,Aprovado,46,1,774,2023-08-03
+Kevin,Camisa,Vestuario,saudavel,Toy0 - 942,0,Reprovado,80,1,939,2023-02-27
+James,Caneta,Utensilio,bom estado,NIH2 - 799,0,Aprovado,40,0,997,2023-09-23
+Barbara,Garrafa,Utensilio,bom estado,GZq8 - 763,1,Aprovado,51,0,939,2023-08-28
+Eddie,Relogio,Acessorio,bom estado,FKT8 - 740,0,Reprovado,45,0,939,2023-09-23
+Chelsea,Livro,Livro,saudavel,wWh4 - 630,1,Aprovado,58,0,568,2023-10-11
+Karen,Telefone,Eletronico,novo,VmJ8 - 723,1,Aprovado,70,0,609,2023-08-03
+Jacob,Telefone,Eletronico,bom estado,bTT7 - 503,0,Reprovado,37,0,651,2023-08-03
+Eddie,Mochila,Vestuario,usado,Rme9 - 132,1,Reprovado,6,0,774,2023-08-31
+Tanya,Mochila,Vestuario,usado,EPY2 - 086,1,Aprovado,51,0,582,2023-05-19
+Stephen,Relogio,Acessorio,usado,wTK5 - 028,1,Aprovado,8,0,636,2023-07-02
+Chelsea,Caneca,Utensilio,novo,ubI9 - 401,0,Reprovado,55,0,740,2022-12-16
+Jason,Mochila,Vestuario,bom estado,zDF8 - 141,0,Aprovado,3,0,636,2023-08-28
+Mary,Caneta,Utensilio,bom estado,SIl6 - 619,1,Reprovado,59,0,699,2023-10-11
+Jacob,Laptop,Eletronico,usado,AXJ8 - 601,0,Reprovado,68,0,836,2023-10-11
+Jason,Relogio,Acessorio,horrivel,HiS5 - 087,0,Reprovado,4,1,850,2023-09-28
+David,Caneca,Utensilio,bom estado,LbM2 - 263,0,Reprovado,57,1,927,2023-10-23
+Cassandra,Livro,Livro,saudavel,yNQ8 - 828,1,Aprovado,59,0,670,2023-04-05
+Antonio,Camisa,Vestuario,usado,zoS1 - 452,1,Aprovado,39,1,880,2023-05-16
+Sandra,Telefone,Eletronico,bom estado,LEp7 - 639,0,Reprovado,36,0,698,2023-10-06
+Chelsea,Caneca,Utensilio,saudavel,Ygc4 - 962,1,Reprovado,62,0,850,2023-09-15
+John,Caneta,Utensilio,saudavel,pzO1 - 061,1,Reprovado,39,0,815,2023-09-15
+Marc,Caneta,Utensilio,usado,OUJ5 - 311,1,Aprovado,12,1,979,2022-12-25
+David,Relogio,Acessorio,horrivel,NJC7 - 124,1,Aprovado,28,0,880,2023-10-24
+Billy,Caneta,Utensilio,bom estado,NhH0 - 472,0,Reprovado,55,0,852,2023-10-23
+Tony,Caneca,Utensilio,bom estado,Yyn6 - 938,0,Aprovado,71,1,522,2023-05-31
+Marisa,Laptop,Eletronico,bom estado,Ija7 - 240,1,Reprovado,80,1,806,2023-09-15
+Tony,Livro,Livro,novo,LIy0 - 187,1,Aprovado,16,1,772,2023-09-28
+Marisa,Caneca,Utensilio,horrivel,eYU4 - 759,0,Aprovado,91,0,852,2023-04-05
+Antonio,Caneta,Utensilio,horrivel,wRE2 - 130,1,Reprovado,74,0,852,2023-11-05
+Eugene,Caneta,Utensilio,horrivel,gMv5 - 086,1,Aprovado,88,0,834,2023-04-05
+Marisa,Mochila,Vestuario,bom estado,LmT1 - 445,1,Reprovado,40,1,527,2022-12-25
+Billy,Mochila,Vestuario,usado,qQT5 - 391,1,Reprovado,53,0,955,2023-05-31
+Tony,Mochila,Vestuario,horrivel,gJW8 - 096,1,Reprovado,93,0,979,2023-03-02
+Kyle,Caneta,Utensilio,novo,jOx7 - 279,0,Aprovado,45,0,979,2023-06-19
+John,Chaveiro,Acessorio,novo,VrK7 - 844,1,Reprovado,0,0,524,2023-09-21
+Stephen,Camisa,Vestuario,horrivel,BUH3 - 924,0,Aprovado,68,0,962,2023-03-28
+Daniel,Garrafa,Utensilio,bom estado,laX1 - 487,0,Reprovado,28,1,665,2023-09-21
+Steven,Telefone,Eletronico,bom estado,cIb7 - 744,0,Aprovado,6,1,962,2023-08-29
+Kimberly,Livro,Livro,bom estado,Fmm8 - 919,1,Aprovado,38,0,665,2023-09-21
+Gabriel,Laptop,Eletronico,saudavel,OtO7 - 877,1,Aprovado,33,1,984,2023-09-21
+Allison,Telefone,Eletronico,novo,oyG1 - 752,0,Aprovado,51,1,540,2023-08-17
+Gabriel,Livro,Livro,bom estado,Nsw2 - 928,1,Aprovado,7,1,786,2023-04-01
+Vincent,Caneta,Utensilio,usado,BOw0 - 871,1,Aprovado,24,1,771,2023-04-21
+Emily,Relogio,Acessorio,bom estado,Fac4 - 829,0,Reprovado,17,1,829,2023-10-11
+Sarah,Laptop,Eletronico,bom estado,VVe1 - 085,0,Reprovado,14,1,984,2023-02-28
+Katherine,Caneta,Utensilio,novo,QDw8 - 904,0,Reprovado,77,1,540,2023-09-02
+Steven,Garrafa,Utensilio,bom estado,TWC1 - 869,1,Reprovado,46,1,934,2023-09-21
+Michelle,Camisa,Vestuario,saudavel,QuF4 - 475,1,Reprovado,89,0,639,2023-10-11
+Vincent,Caneta,Utensilio,saudavel,JwO3 - 749,1,Aprovado,70,1,962,2023-08-29
+Kimberly,Livro,Livro,novo,mCk9 - 948,0,Aprovado,8,1,771,2023-02-28
+Michelle,Mochila,Vestuario,novo,jok1 - 865,1,Aprovado,81,1,665,2023-09-02
+Kimberly,Relogio,Acessorio,bom estado,vjC9 - 894,0,Reprovado,48,1,634,2023-10-11
+Stephen,Mochila,Vestuario,novo,ohQ1 - 762,0,Reprovado,12,1,761,2023-03-28
+Michelle,Chaveiro,Acessorio,novo,qll2 - 904,0,Aprovado,73,0,934,2023-05-15
+Kimberly,Caneca,Utensilio,saudavel,FPu1 - 362,1,Reprovado,88,1,962,2023-08-17
+John,Relogio,Acessorio,horrivel,YSQ4 - 137,0,Reprovado,26,1,984,2023-01-02
+Steven,Chaveiro,Acessorio,bom estado,aYy1 - 202,0,Reprovado,74,1,540,2023-05-15
+Katherine,Camisa,Vestuario,bom estado,sBc7 - 221,0,Aprovado,91,0,639,2023-01-02
+Emily,Livro,Livro,horrivel,Ypo4 - 810,0,Aprovado,10,1,746,2023-09-21
+Katherine,Garrafa,Utensilio,bom estado,uDe8 - 349,0,Aprovado,9,1,783,2023-06-07
+Tiffany,Chaveiro,Acessorio,bom estado,GQa1 - 856,1,Reprovado,48,1,998,2023-06-11
+Michelle,Chaveiro,Acessorio,bom estado,GGA5 - 341,0,Reprovado,78,0,705,2023-04-01
+Kimberly,Relogio,Acessorio,usado,uvi7 - 500,1,Aprovado,26,1,984,2023-09-02
+Daniel,Caneta,Utensilio,horrivel,FhD7 - 601,0,Reprovado,8,0,984,2023-04-01
+Troy,Caneca,Utensilio,bom estado,BTT2 - 000,1,Aprovado,55,0,984,2023-04-03
+Alison,Relogio,Acessorio,usado,gZo8 - 215,1,Reprovado,89,0,665,2023-02-28
+Steven,Mochila,Vestuario,horrivel,bbn6 - 372,0,Aprovado,94,0,934,2023-10-11
+Katherine,Camisa,Vestuario,usado,zIs4 - 051,1,Aprovado,61,1,829,2023-05-15
+Brian,Laptop,Eletronico,bom estado,qOU0 - 867,0,Reprovado,35,0,634,2023-09-02
+Steven,Caneta,Utensilio,usado,TSH2 - 141,0,Aprovado,9,0,783,2023-09-21
+Alison,Laptop,Eletronico,usado,Wtq6 - 351,0,Reprovado,6,1,934,2023-09-21
+Emily,Caneca,Utensilio,saudavel,pqN2 - 783,1,Aprovado,59,0,786,2023-04-03
+Emily,Relogio,Acessorio,novo,ukq0 - 651,1,Aprovado,31,1,568,2023-09-21
+Brian,Livro,Livro,usado,ylB6 - 089,0,Reprovado,23,1,962,2023-02-28
+Stephen,Caneta,Utensilio,bom estado,GKz8 - 049,0,Aprovado,92,0,540,2023-01-02
+Daniel,Caneca,Utensilio,horrivel,uES4 - 967,1,Reprovado,73,0,640,2023-02-28
+Gabriel,Telefone,Eletronico,saudavel,KDA9 - 040,1,Aprovado,30,0,540,2023-09-02
+Joshua,Mochila,Vestuario,bom estado,mGO4 - 593,0,Reprovado,45,0,761,2023-10-11
+Michelle,Caneta,Utensilio,bom estado,DWL9 - 450,1,Aprovado,42,1,634,2023-08-04
+Gabriel,Camisa,Vestuario,novo,XgX9 - 002,0,Reprovado,36,0,692,2023-06-07
+Sarah,Camisa,Vestuario,usado,dkN2 - 413,0,Reprovado,75,1,746,2023-04-01
+Tiffany,Chaveiro,Acessorio,bom estado,lZK2 - 302,0,Reprovado,29,0,761,2023-01-02
+Allison,Laptop,Eletronico,novo,vPd6 - 792,1,Reprovado,65,0,786,2023-04-01
+Michelle,Camisa,Vestuario,usado,TUV5 - 194,1,Aprovado,46,0,568,2023-09-21
+Alison,Laptop,Eletronico,horrivel,qqo9 - 918,1,Reprovado,23,0,962,2023-04-08
+Alison,Caneca,Utensilio,horrivel,zIu4 - 671,0,Aprovado,19,1,761,2023-02-28
+Michelle,Livro,Livro,bom estado,Uka7 - 946,1,Aprovado,40,0,634,2023-04-21
+Stephen,Caneca,Utensilio,horrivel,efQ8 - 950,1,Reprovado,92,0,786,2023-10-02
+Thomas,Laptop,Eletronico,horrivel,pxP6 - 882,0,Reprovado,14,1,634,2023-01-02
+Kimberly,Caneta,Utensilio,usado,alG2 - 746,0,Aprovado,39,0,640,2023-03-28
+Allison,Relogio,Acessorio,bom estado,jDQ0 - 052,0,Reprovado,87,1,934,2023-04-08
+Brian,Caneta,Utensilio,novo,IQh9 - 897,1,Reprovado,87,0,524,2023-10-02
+Vincent,Caneca,Utensilio,horrivel,gOa3 - 695,0,Reprovado,25,1,934,2023-10-02
+Allison,Camisa,Vestuario,novo,sNQ3 - 894,0,Reprovado,87,0,705,2023-08-17
+Steven,Caneta,Utensilio,horrivel,keU6 - 257,1,Aprovado,29,1,568,2023-08-04
+Sarah,Relogio,Acessorio,novo,xMv0 - 332,0,Reprovado,40,0,783,2023-10-11
+Emily,Relogio,Acessorio,novo,Yxe9 - 588,0,Reprovado,29,1,984,2023-09-21
+Corey,Mochila,Vestuario,novo,QRj7 - 049,1,Aprovado,41,0,771,2023-09-21
+Kimberly,Laptop,Eletronico,horrivel,xMv2 - 654,1,Aprovado,26,1,640,2023-04-21
+Thomas,Garrafa,Utensilio,usado,tjb3 - 430,0,Reprovado,39,1,829,2023-05-15
+Thomas,Garrafa,Utensilio,saudavel,diR7 - 096,1,Aprovado,95,0,639,2023-03-28
+Michelle,Garrafa,Utensilio,horrivel,BsX1 - 722,1,Reprovado,74,0,962,2023-06-11
+Joshua,Relogio,Acessorio,horrivel,ljO0 - 664,0,Reprovado,1,0,639,2023-09-21
+Sarah,Mochila,Vestuario,saudavel,Apw1 - 414,1,Reprovado,23,1,540,2023-10-01
+Sarah,Mochila,Vestuario,bom estado,iPa3 - 453,1,Reprovado,75,1,783,2023-06-11
+Allison,Telefone,Eletronico,bom estado,Hao4 - 038,0,Aprovado,12,1,692,2023-04-03
+Michelle,Camisa,Vestuario,bom estado,lYy0 - 363,1,Aprovado,94,0,998,2023-11-14
+Tiffany,Relogio,Acessorio,bom estado,FfL2 - 476,0,Reprovado,60,0,665,2023-08-04
+Michelle,Relogio,Acessorio,saudavel,AnR8 - 961,0,Reprovado,29,0,705,2023-10-02
+Gabriel,Laptop,Eletronico,novo,qGX6 - 201,0,Reprovado,51,0,746,2023-10-11
+Brian,Garrafa,Utensilio,bom estado,GVv0 - 855,0,Aprovado,80,0,524,2023-10-11
+John,Mochila,Vestuario,usado,QKx1 - 058,1,Reprovado,84,1,934,2023-04-08
+Steven,Relogio,Acessorio,novo,EJL7 - 937,0,Aprovado,43,1,761,2023-08-04
+John,Telefone,Eletronico,saudavel,IvR0 - 325,0,Reprovado,70,0,984,2023-10-01
+Kimberly,Chaveiro,Acessorio,usado,sCk7 - 393,1,Reprovado,73,0,761,2023-03-28
+Troy,Garrafa,Utensilio,bom estado,axQ7 - 129,1,Reprovado,70,0,786,2023-09-21
+Troy,Relogio,Acessorio,horrivel,Cxl8 - 453,1,Reprovado,22,1,705,2023-10-01
+Daniel,Camisa,Vestuario,saudavel,ptH6 - 003,1,Aprovado,14,0,998,2023-10-01
+Daniel,Telefone,Eletronico,usado,ZlH5 - 831,0,Reprovado,61,0,771,2023-09-02
+Gabriel,Laptop,Eletronico,usado,TPT0 - 297,1,Reprovado,29,1,761,2023-10-01
+Thomas,Telefone,Eletronico,bom estado,WxT9 - 971,0,Reprovado,67,0,639,2023-08-17
+Michelle,Chaveiro,Acessorio,bom estado,Gze9 - 980,1,Reprovado,17,1,540,2023-09-21
+Steven,Relogio,Acessorio,saudavel,ulV4 - 401,0,Reprovado,68,1,692,2023-06-07
+Emily,Caneca,Utensilio,horrivel,neu3 - 905,1,Reprovado,56,1,761,2023-02-28
+Michelle,Caneta,Utensilio,saudavel,QbF0 - 898,0,Aprovado,48,0,829,2023-08-29
+Emily,Caneta,Utensilio,horrivel,NUA2 - 194,0,Aprovado,22,0,984,2023-10-01
+Emily,Mochila,Vestuario,usado,LPp3 - 139,0,Reprovado,40,1,761,2023-09-21
+Stephen,Mochila,Vestuario,bom estado,BbW4 - 343,0,Reprovado,23,1,746,2023-08-04
+Vincent,Caneta,Utensilio,horrivel,sOL2 - 385,1,Aprovado,46,1,665,2023-10-11
+Michelle,Chaveiro,Acessorio,novo,KJZ9 - 178,1,Aprovado,22,0,524,2023-10-11
+Emily,Garrafa,Utensilio,novo,AwY8 - 249,0,Aprovado,88,0,665,2023-01-02
+Emily,Laptop,Eletronico,novo,FOY9 - 137,1,Reprovado,4,1,705,2023-09-02
+Joshua,Caneca,Utensilio,novo,kmg7 - 658,1,Aprovado,82,1,568,2023-01-02
+Troy,Camisa,Vestuario,saudavel,JWv2 - 465,0,Reprovado,51,0,634,2023-10-01
+Corey,Mochila,Vestuario,novo,kCE2 - 191,0,Aprovado,81,0,984,2023-06-07
+Kimberly,Caneta,Utensilio,saudavel,yrj2 - 598,0,Aprovado,54,1,639,2023-08-17
+Daniel,Camisa,Vestuario,horrivel,rsk2 - 641,1,Aprovado,88,1,692,2023-05-15
+Joshua,Caneta,Utensilio,usado,OJZ5 - 955,0,Reprovado,7,0,524,2023-03-28
+Katherine,Mochila,Vestuario,novo,kEB5 - 750,1,Aprovado,76,0,934,2023-04-08
+John,Relogio,Acessorio,usado,pgx7 - 509,0,Aprovado,71,0,786,2023-08-17
+Tiffany,Telefone,Eletronico,horrivel,Dwf2 - 630,0,Reprovado,92,0,524,2023-09-02
+Vincent,Caneca,Utensilio,usado,TUO4 - 574,0,Reprovado,85,1,998,2023-08-04
+Brian,Chaveiro,Acessorio,horrivel,VpY5 - 887,1,Reprovado,61,0,998,2023-09-02
+Steven,Garrafa,Utensilio,novo,VDY8 - 736,0,Reprovado,9,0,692,2023-05-15
+Michelle,Mochila,Vestuario,saudavel,Qdx4 - 522,1,Aprovado,75,0,786,2023-04-03
+Daniel,Caneta,Utensilio,usado,BJc7 - 177,1,Aprovado,11,0,524,2023-04-08
+Katherine,Camisa,Vestuario,novo,TxY3 - 931,1,Reprovado,88,0,705,2023-05-15
+Emily,Chaveiro,Acessorio,bom estado,kNd5 - 292,0,Reprovado,82,1,761,2023-09-02
+Katherine,Chaveiro,Acessorio,bom estado,TJJ7 - 358,0,Reprovado,63,0,705,2023-01-02
+Alison,Chaveiro,Acessorio,usado,Mnd8 - 425,0,Aprovado,37,1,771,2023-09-02
+Alison,Telefone,Eletronico,bom estado,rjX6 - 827,0,Aprovado,88,1,568,2023-04-01
+Brian,Garrafa,Utensilio,saudavel,rBa6 - 283,0,Aprovado,89,0,934,2023-02-28
+Stephen,Laptop,Eletronico,horrivel,lFO6 - 095,1,Reprovado,43,1,783,2023-10-02
+Michelle,Mochila,Vestuario,bom estado,iGx8 - 095,1,Aprovado,17,1,771,2023-01-02
+Troy,Camisa,Vestuario,bom estado,uSS8 - 510,1,Aprovado,41,0,640,2023-09-02
+Emily,Mochila,Vestuario,usado,iKA0 - 983,1,Reprovado,27,0,665,2023-03-28
+Steven,Camisa,Vestuario,usado,UYs9 - 470,1,Reprovado,9,0,746,2023-06-07
+Emily,Laptop,Eletronico,bom estado,PmB5 - 681,0,Reprovado,63,1,761,2023-04-01
+Thomas,Caneta,Utensilio,horrivel,Xsr3 - 592,0,Aprovado,77,0,984,2023-09-02
+Emily,Relogio,Acessorio,horrivel,pKj4 - 715,1,Reprovado,91,0,984,2023-03-28
+Emily,Livro,Livro,novo,jJa2 - 251,0,Reprovado,100,1,934,2023-04-08
+Emily,Laptop,Eletronico,bom estado,Lgq0 - 690,1,Reprovado,3,1,829,2023-10-02
+Vincent,Livro,Livro,usado,yuM9 - 259,1,Reprovado,86,0,524,2023-10-02
+Daniel,Caneca,Utensilio,saudavel,nuz8 - 036,0,Reprovado,23,1,634,2023-03-28
+Emily,Mochila,Vestuario,bom estado,gXm1 - 403,0,Reprovado,85,0,634,2023-01-02
+Tiffany,Telefone,Eletronico,saudavel,qmL0 - 270,0,Reprovado,18,0,639,2023-06-11
+Brian,Caneca,Utensilio,horrivel,dBJ1 - 833,0,Reprovado,10,1,934,2023-09-02
+Allison,Telefone,Eletronico,horrivel,Baj4 - 737,0,Aprovado,2,1,665,2023-09-21
+Stephen,Camisa,Vestuario,horrivel,afJ1 - 395,0,Aprovado,98,1,634,2023-10-02
+Troy,Mochila,Vestuario,saudavel,sIr1 - 729,0,Reprovado,29,0,786,2023-10-01
+Thomas,Caneca,Utensilio,horrivel,rPA0 - 440,1,Aprovado,70,1,761,2023-02-28
+Katherine,Laptop,Eletronico,usado,wtj5 - 358,0,Reprovado,39,0,665,2023-08-29
+Michelle,Caneca,Utensilio,novo,IXS0 - 473,1,Aprovado,88,1,934,2023-04-03
+Vincent,Laptop,Eletronico,bom estado,qgN7 - 124,1,Aprovado,4,1,786,2023-10-11
+Brian,Telefone,Eletronico,bom estado,RHv2 - 900,0,Reprovado,0,0,761,2023-10-02
+Corey,Livro,Livro,usado,uAm9 - 697,1,Reprovado,4,1,771,2023-08-29
+Emily,Mochila,Vestuario,bom estado,uvG9 - 381,1,Reprovado,24,1,665,2023-04-21
+Sarah,Garrafa,Utensilio,novo,kNn5 - 214,0,Reprovado,53,1,786,2023-10-11
+Kimberly,Caneta,Utensilio,novo,Wsf4 - 730,0,Reprovado,22,0,524,2023-04-21
+Thomas,Relogio,Acessorio,usado,uLQ7 - 360,1,Reprovado,32,1,640,2023-04-14
+Kimberly,Caneca,Utensilio,usado,INY6 - 613,0,Reprovado,54,1,761,2023-08-17
+Allison,Laptop,Eletronico,saudavel,pLJ4 - 453,0,Reprovado,26,0,640,2023-05-15
+Sarah,Telefone,Eletronico,novo,UTM3 - 853,1,Aprovado,48,1,934,2023-09-02
+Emily,Caneta,Utensilio,saudavel,tOM0 - 864,0,Aprovado,43,0,640,2023-09-21
+Gabriel,Caneca,Utensilio,usado,YHP0 - 831,1,Reprovado,65,0,746,2023-08-04
+Joshua,Chaveiro,Acessorio,bom estado,Gur8 - 786,1,Aprovado,7,0,692,2023-04-21
+Michelle,Relogio,Acessorio,bom estado,Bok0 - 632,0,Aprovado,36,0,761,2023-10-02
+Tiffany,Laptop,Eletronico,horrivel,egS2 - 070,0,Reprovado,17,1,962,2023-09-02
+Alison,Mochila,Vestuario,bom estado,sJS8 - 041,0,Aprovado,85,0,665,2023-10-11
+Joshua,Mochila,Vestuario,saudavel,AiR5 - 884,0,Aprovado,78,0,771,2023-11-14
+John,Garrafa,Utensilio,bom estado,msG5 - 447,0,Reprovado,36,0,783,2023-04-21
+Daniel,Livro,Livro,bom estado,uon4 - 443,1,Reprovado,86,1,568,2023-04-01
+Michelle,Mochila,Vestuario,usado,VLA3 - 198,1,Aprovado,5,1,783,2023-03-28
+Gabriel,Chaveiro,Acessorio,novo,PMr2 - 940,0,Aprovado,92,1,665,2023-04-03
+Troy,Mochila,Vestuario,horrivel,zJc4 - 004,1,Aprovado,81,1,665,2023-04-03
+Michelle,Telefone,Eletronico,bom estado,vIJ2 - 698,0,Aprovado,68,1,786,2023-08-29
+Gabriel,Telefone,Eletronico,horrivel,yWE0 - 604,1,Aprovado,84,1,639,2023-10-02
+Corey,Relogio,Acessorio,usado,IaZ1 - 084,1,Reprovado,0,0,984,2023-04-03
+Sarah,Chaveiro,Acessorio,saudavel,gPD0 - 820,1,Aprovado,97,0,934,2023-01-02
+Vincent,Camisa,Vestuario,bom estado,iYX0 - 092,1,Reprovado,48,0,524,2023-10-01
+Michelle,Garrafa,Utensilio,horrivel,LmH4 - 474,1,Reprovado,73,1,962,2023-10-01
+Sarah,Caneta,Utensilio,horrivel,LjI5 - 404,0,Aprovado,89,1,640,2023-11-14
+Stephen,Garrafa,Utensilio,horrivel,TnC0 - 023,0,Aprovado,91,0,639,2023-08-29
+Joshua,Garrafa,Utensilio,bom estado,hPe0 - 287,1,Reprovado,29,1,934,2023-10-01
+Brian,Chaveiro,Acessorio,usado,GMf1 - 503,0,Reprovado,90,0,640,2023-04-14
+John,Mochila,Vestuario,usado,YtS0 - 907,0,Reprovado,29,0,568,2023-06-07
+Michelle,Chaveiro,Acessorio,novo,Dcb7 - 076,0,Reprovado,0,1,984,2023-03-28
+Vincent,Relogio,Acessorio,usado,MNf3 - 192,1,Aprovado,40,1,998,2023-11-14
+Stephen,Garrafa,Utensilio,saudavel,sre2 - 352,1,Aprovado,88,1,705,2023-09-21
+Joshua,Garrafa,Utensilio,novo,Nxq8 - 276,1,Reprovado,54,0,665,2023-06-07
+Joshua,Garrafa,Utensilio,novo,bHk9 - 904,1,Reprovado,62,0,761,2023-04-01
+Sarah,Caneca,Utensilio,saudavel,kyk0 - 650,0,Aprovado,46,1,746,2023-09-21
+Joshua,Telefone,Eletronico,horrivel,ujh2 - 314,1,Aprovado,2,0,984,2023-04-14
+Katherine,Caneca,Utensilio,saudavel,pyI3 - 643,0,Reprovado,31,0,540,2023-06-07
+Corey,Telefone,Eletronico,saudavel,Ybu8 - 396,0,Reprovado,30,1,771,2023-05-15
+Vincent,Camisa,Vestuario,bom estado,eMI4 - 020,0,Aprovado,57,1,761,2023-10-02
+Gabriel,Caneca,Utensilio,bom estado,Gou0 - 778,1,Aprovado,13,1,639,2023-10-11
+Emily,Mochila,Vestuario,novo,CYj6 - 838,1,Aprovado,32,1,665,2023-08-29
+Michelle,Telefone,Eletronico,horrivel,kTB4 - 670,1,Reprovado,21,0,746,2023-03-28
+Thomas,Mochila,Vestuario,usado,kgC5 - 961,0,Reprovado,82,0,634,2023-04-14
+Daniel,Telefone,Eletronico,horrivel,gKA1 - 786,1,Aprovado,79,0,640,2023-11-14
+Katherine,Livro,Livro,saudavel,ANI3 - 645,0,Aprovado,74,0,746,2023-01-02
+Kimberly,Caneta,Utensilio,bom estado,KST9 - 747,1,Reprovado,93,1,524,2023-09-02
+John,Caneca,Utensilio,horrivel,shK3 - 303,1,Reprovado,25,0,998,2023-11-14
+Troy,Laptop,Eletronico,novo,nBv5 - 191,1,Aprovado,23,1,783,2023-11-14
+Emily,Camisa,Vestuario,usado,WHF1 - 003,0,Reprovado,2,0,568,2023-10-01
+Stephen,Laptop,Eletronico,novo,emR1 - 772,1,Aprovado,12,0,771,2023-08-04
+Steven,Livro,Livro,bom estado,BOS8 - 956,1,Reprovado,39,0,783,2023-02-28
+Corey,Livro,Livro,usado,Ipf1 - 041,1,Reprovado,59,1,568,2023-08-17
+Kimberly,Caneca,Utensilio,saudavel,CLh4 - 530,0,Reprovado,50,1,962,2023-04-01
+Daniel,Livro,Livro,horrivel,eFs1 - 038,0,Aprovado,33,1,761,2023-08-29
+Michelle,Camisa,Vestuario,horrivel,LPc7 - 000,0,Reprovado,28,0,783,2023-04-21
+Alison,Caneta,Utensilio,usado,fiV6 - 901,0,Aprovado,1,0,783,2023-02-28
+Daniel,Camisa,Vestuario,novo,dPQ8 - 477,0,Reprovado,87,0,634,2023-06-11
+Brian,Camisa,Vestuario,horrivel,Xhv8 - 469,0,Aprovado,96,1,501,2023-08-21
+Katie,Livro,Livro,bom estado,YjP3 - 891,1,Aprovado,25,1,921,2023-04-09
+Brian,Camisa,Vestuario,horrivel,POS8 - 292,0,Aprovado,98,0,552,2023-03-29
+George,Relogio,Acessorio,horrivel,CsG0 - 620,1,Aprovado,9,0,638,2023-10-24
+Christina,Relogio,Acessorio,novo,Iel5 - 001,1,Reprovado,61,1,543,2023-06-02
+Daniel,Caneca,Utensilio,saudavel,AaW2 - 149,1,Aprovado,65,1,789,2023-08-08
+Courtney,Camisa,Vestuario,horrivel,IDY5 - 064,0,Reprovado,73,0,857,2023-03-31
+Virginia,Livro,Livro,saudavel,Rhc6 - 920,0,Reprovado,19,0,812,2023-10-25
+Sarah,Caneta,Utensilio,usado,afN1 - 458,0,Reprovado,9,0,692,2023-02-24
+Daniel,Camisa,Vestuario,saudavel,nXj0 - 765,1,Reprovado,92,0,909,2023-02-20
+Sarah,Mochila,Vestuario,bom estado,wdv6 - 308,0,Reprovado,15,0,833,2023-08-21
+Erika,Garrafa,Utensilio,horrivel,PXr8 - 591,0,Aprovado,0,0,909,2023-04-09
+Courtney,Caneca,Utensilio,saudavel,Uul9 - 113,0,Aprovado,86,1,789,2023-06-02
+Zachary,Laptop,Eletronico,saudavel,VAu5 - 111,0,Reprovado,34,0,652,2023-08-08
+Joe,Laptop,Eletronico,saudavel,kna9 - 372,1,Reprovado,36,0,988,2023-07-01
+Courtney,Telefone,Eletronico,horrivel,Rew8 - 374,0,Reprovado,5,1,501,2023-06-02
+Heather,Chaveiro,Acessorio,bom estado,GLh5 - 113,1,Aprovado,58,1,543,2023-06-02
+George,Garrafa,Utensilio,horrivel,gsB1 - 597,1,Aprovado,83,1,789,2023-05-15
+Scott,Caneca,Utensilio,novo,GRd5 - 125,0,Aprovado,52,1,618,2023-08-21
+Heather,Garrafa,Utensilio,saudavel,CfS8 - 265,0,Reprovado,65,1,638,2023-07-01
+Shane,Livro,Livro,saudavel,scK1 - 688,0,Aprovado,80,1,921,2023-04-18
+Sarah,Camisa,Vestuario,bom estado,rzK9 - 278,0,Aprovado,49,1,552,2023-08-21
+Jason,Garrafa,Utensilio,novo,kHW5 - 054,0,Reprovado,95,1,833,2023-10-24
+Kristin,Relogio,Acessorio,usado,cYv2 - 392,1,Reprovado,65,0,652,2023-11-08
+Sarah,Livro,Livro,saudavel,foi9 - 596,1,Reprovado,12,0,909,2023-02-20
+Joe,Mochila,Vestuario,bom estado,vBC2 - 542,1,Aprovado,100,0,652,2023-06-03
+Scott,Garrafa,Utensilio,horrivel,QzX2 - 377,0,Aprovado,45,1,857,2023-02-24
+Shane,Relogio,Acessorio,saudavel,fOk3 - 244,1,Reprovado,17,0,812,2023-03-31
+Heather,Caneca,Utensilio,horrivel,oCx5 - 744,1,Aprovado,10,1,692,2023-11-08
+Jason,Livro,Livro,saudavel,ntK7 - 010,0,Reprovado,10,1,859,2023-05-15
+Sarah,Camisa,Vestuario,saudavel,SRY7 - 177,0,Reprovado,38,0,812,2023-05-27
+Russell,Mochila,Vestuario,usado,qrI1 - 510,0,Reprovado,12,0,638,2023-06-02
+Katie,Caneta,Utensilio,bom estado,fNw3 - 749,0,Aprovado,36,0,543,2023-02-25
+Heather,Mochila,Vestuario,novo,yIU4 - 325,1,Reprovado,5,0,859,2023-06-03
+Virginia,Telefone,Eletronico,novo,wey7 - 610,1,Reprovado,26,1,859,2023-10-25
+Katie,Relogio,Acessorio,saudavel,icM9 - 221,0,Reprovado,57,0,909,2023-07-01
+Russell,Garrafa,Utensilio,horrivel,wKJ4 - 279,1,Aprovado,94,0,552,2023-05-27
+Joe,Laptop,Eletronico,horrivel,KzF9 - 854,0,Aprovado,69,1,763,2023-10-24
+Jason,Laptop,Eletronico,novo,BdQ0 - 503,1,Reprovado,79,0,909,2023-10-25
+Alexander,Camisa,Vestuario,saudavel,hTC4 - 301,1,Reprovado,70,1,909,2023-05-27
+Jason,Camisa,Vestuario,novo,mME3 - 178,0,Aprovado,20,0,921,2023-02-25
+Christina,Livro,Livro,bom estado,LTG5 - 760,0,Aprovado,58,1,618,2023-03-31
+Virginia,Laptop,Eletronico,horrivel,acf7 - 442,0,Reprovado,68,1,552,2023-04-18
+Sarah,Caneta,Utensilio,bom estado,ieZ1 - 400,0,Aprovado,95,0,543,2023-06-03
+Jason,Caneta,Utensilio,bom estado,rpb8 - 538,0,Aprovado,54,1,552,2023-02-25
+Courtney,Relogio,Acessorio,usado,epN3 - 128,0,Aprovado,14,0,859,2023-05-15
+Sherri,Laptop,Eletronico,usado,AKc7 - 136,0,Reprovado,84,0,812,2023-06-02
+Erika,Caneca,Utensilio,novo,aVG3 - 239,1,Reprovado,93,0,552,2023-02-24
+Katie,Relogio,Acessorio,bom estado,ifF6 - 961,1,Reprovado,57,1,857,2023-11-08
+Shane,Laptop,Eletronico,horrivel,fFF7 - 605,0,Reprovado,19,1,857,2023-02-24
+Brian,Caneca,Utensilio,bom estado,oSX7 - 128,0,Reprovado,65,0,909,2023-08-21
+Shane,Laptop,Eletronico,horrivel,PxF6 - 908,0,Reprovado,29,1,543,2023-06-02
+Joe,Garrafa,Utensilio,usado,ZVd8 - 865,1,Aprovado,81,1,692,2023-10-24
+Heather,Caneta,Utensilio,bom estado,keq5 - 926,0,Aprovado,58,1,692,2023-08-08
+Alexander,Livro,Livro,novo,IIS3 - 095,0,Reprovado,36,1,789,2023-06-02
+Heather,Laptop,Eletronico,bom estado,GEm1 - 784,1,Aprovado,72,0,501,2023-08-08
+Courtney,Garrafa,Utensilio,bom estado,LpL4 - 758,1,Reprovado,21,1,988,2023-03-29
+Jason,Garrafa,Utensilio,saudavel,GdW5 - 941,1,Reprovado,97,0,812,2023-05-27
+Heather,Relogio,Acessorio,saudavel,cjv5 - 054,1,Reprovado,92,0,552,2023-10-25
+Alexander,Mochila,Vestuario,horrivel,tyZ0 - 461,0,Reprovado,65,0,909,2023-10-24
+Heather,Camisa,Vestuario,saudavel,hmx5 - 062,0,Aprovado,17,1,501,2023-08-21
+Katie,Laptop,Eletronico,horrivel,Jjs5 - 011,0,Reprovado,96,1,833,2023-03-31
+Russell,Caneca,Utensilio,novo,uKS2 - 555,0,Aprovado,22,0,638,2023-04-09
+Zachary,Garrafa,Utensilio,saudavel,fqH6 - 708,0,Reprovado,49,0,833,2023-07-01
+Katie,Laptop,Eletronico,saudavel,mff3 - 911,1,Reprovado,31,0,501,2023-06-03
+Joe,Mochila,Vestuario,usado,pCn3 - 395,0,Reprovado,29,1,833,2023-04-18
+Katie,Caneta,Utensilio,bom estado,tLh9 - 157,1,Reprovado,15,1,833,2023-06-03
+Christina,Telefone,Eletronico,horrivel,XUg9 - 110,0,Aprovado,47,0,859,2023-07-01
+Russell,Mochila,Vestuario,saudavel,esk0 - 707,0,Reprovado,27,0,857,2023-05-01
+Courtney,Caneca,Utensilio,horrivel,Bnp5 - 229,1,Reprovado,92,1,652,2023-08-08
+Joe,Mochila,Vestuario,usado,qIS2 - 839,0,Aprovado,60,1,618,2023-03-29
+Courtney,Laptop,Eletronico,horrivel,Owg5 - 910,1,Reprovado,19,1,759,2023-08-21
+Brian,Camisa,Vestuario,horrivel,PDa5 - 878,1,Reprovado,29,1,909,2023-08-21
+George,Caneca,Utensilio,horrivel,SlP6 - 309,0,Aprovado,21,0,812,2023-03-31
+Daniel,Mochila,Vestuario,usado,aDm8 - 791,0,Aprovado,66,1,763,2023-10-24
+Scott,Telefone,Eletronico,horrivel,MuS5 - 438,0,Aprovado,41,0,638,2023-03-29
+Sherri,Caneca,Utensilio,horrivel,UEU6 - 493,1,Aprovado,97,1,652,2023-05-27
+Sherri,Telefone,Eletronico,bom estado,TOt8 - 231,0,Aprovado,2,0,501,2023-04-18
+Alexander,Telefone,Eletronico,usado,Thd4 - 069,1,Reprovado,72,1,833,2023-11-08
+Alexander,Livro,Livro,bom estado,bfV7 - 234,0,Aprovado,12,1,638,2023-02-20
+Daniel,Telefone,Eletronico,bom estado,cBE4 - 473,1,Reprovado,72,0,834,2023-11-08
+Daniel,Caneca,Utensilio,usado,tBI1 - 239,1,Aprovado,41,0,730,2023-02-24
+Erika,Camisa,Vestuario,bom estado,fid1 - 781,0,Reprovado,83,0,652,2023-05-01
+Zachary,Telefone,Eletronico,novo,MHa3 - 371,0,Reprovado,12,0,652,2023-08-21
+Joe,Caneta,Utensilio,usado,mho2 - 475,1,Aprovado,50,1,652,2023-08-08
+Zachary,Telefone,Eletronico,horrivel,wsk0 - 400,1,Reprovado,38,1,501,2023-04-09
+Joe,Livro,Livro,novo,APw3 - 538,0,Aprovado,24,0,501,2023-03-31
+Brian,Caneta,Utensilio,horrivel,egF9 - 109,1,Aprovado,55,1,638,2023-05-27
+Courtney,Camisa,Vestuario,saudavel,gVg6 - 932,0,Reprovado,51,0,638,2023-08-08
+Alexander,Relogio,Acessorio,novo,UUc4 - 485,1,Aprovado,30,0,552,2023-05-27
+Sherri,Laptop,Eletronico,novo,zqQ0 - 845,1,Reprovado,21,1,552,2023-04-09
+Russell,Mochila,Vestuario,usado,fRO9 - 302,0,Aprovado,43,0,763,2023-03-29
+Scott,Caneca,Utensilio,usado,oAe6 - 062,0,Aprovado,76,1,921,2023-02-24
+Katie,Chaveiro,Acessorio,bom estado,Tup5 - 350,0,Aprovado,46,1,692,2023-06-03
+Russell,Garrafa,Utensilio,bom estado,aaC9 - 217,0,Aprovado,83,0,812,2023-11-08
+Sherri,Mochila,Vestuario,usado,ckn0 - 842,0,Aprovado,34,0,988,2023-02-24
+Virginia,Chaveiro,Acessorio,bom estado,Iyx6 - 715,0,Aprovado,4,0,812,2023-03-31
+Courtney,Mochila,Vestuario,saudavel,qli1 - 264,1,Reprovado,86,0,552,2023-06-03
+Sarah,Chaveiro,Acessorio,novo,wXw7 - 015,0,Aprovado,31,0,501,2023-04-09
+Zachary,Laptop,Eletronico,horrivel,fkZ7 - 241,0,Reprovado,63,0,909,2023-04-09
+Russell,Laptop,Eletronico,usado,uWL7 - 636,1,Aprovado,66,0,501,2023-06-02
+Scott,Livro,Livro,saudavel,esa0 - 415,0,Reprovado,94,0,652,2023-03-29
+Erika,Telefone,Eletronico,bom estado,JKK2 - 033,0,Reprovado,84,0,543,2023-03-31
+Brian,Telefone,Eletronico,bom estado,PPq7 - 775,1,Reprovado,30,0,857,2023-08-21
+Courtney,Chaveiro,Acessorio,horrivel,DcJ0 - 977,1,Aprovado,11,0,638,2023-06-02
+Brian,Livro,Livro,novo,Zmo0 - 207,0,Reprovado,10,0,692,2023-05-15
+George,Chaveiro,Acessorio,usado,Afb5 - 120,0,Reprovado,74,0,833,2023-08-08
+Russell,Caneta,Utensilio,horrivel,tFE9 - 839,0,Aprovado,50,1,618,2023-08-08
+Zachary,Caneta,Utensilio,usado,Daj5 - 000,0,Reprovado,12,0,833,2023-05-15
+Shane,Garrafa,Utensilio,saudavel,KAu3 - 982,0,Aprovado,34,0,834,2023-04-18
+Alexander,Chaveiro,Acessorio,novo,oSD8 - 503,1,Reprovado,69,0,730,2023-04-18
+Alexander,Telefone,Eletronico,saudavel,SGN5 - 410,0,Reprovado,23,1,909,2023-07-01
+Kristin,Chaveiro,Acessorio,saudavel,fgh3 - 053,0,Aprovado,82,0,759,2023-08-08
+Zachary,Chaveiro,Acessorio,novo,Cfe7 - 484,0,Aprovado,16,0,833,2023-05-15
+Kristin,Telefone,Eletronico,horrivel,vJe2 - 923,0,Aprovado,12,0,759,2023-02-24
+Courtney,Mochila,Vestuario,bom estado,vRY1 - 076,0,Aprovado,82,1,552,2023-04-18
+Shane,Chaveiro,Acessorio,usado,okZ9 - 371,1,Aprovado,22,0,552,2023-07-01
+Daniel,Caneca,Utensilio,usado,QoD9 - 209,0,Reprovado,60,1,543,2023-08-08
+Kristin,Chaveiro,Acessorio,usado,BeB7 - 013,0,Reprovado,17,1,652,2023-07-01
+Scott,Relogio,Acessorio,saudavel,VIk1 - 312,0,Aprovado,13,1,833,2023-06-02
+Daniel,Garrafa,Utensilio,saudavel,vKN2 - 054,1,Reprovado,20,0,857,2023-05-15
+Katie,Laptop,Eletronico,bom estado,JgQ0 - 255,0,Aprovado,3,0,857,2023-03-31
+Sarah,Livro,Livro,novo,vLe3 - 095,0,Reprovado,41,0,501,2023-05-27
+Russell,Caneca,Utensilio,novo,kxU7 - 308,0,Reprovado,90,0,833,2023-05-01
+Sarah,Caneta,Utensilio,usado,niX2 - 096,1,Reprovado,47,1,759,2023-03-29
+Kristin,Chaveiro,Acessorio,saudavel,kci1 - 798,1,Reprovado,97,1,859,2023-04-09
+Jason,Mochila,Vestuario,bom estado,ahW1 - 844,1,Aprovado,40,1,618,2023-10-25
+Alexander,Caneca,Utensilio,horrivel,EOR9 - 638,1,Reprovado,21,1,692,2023-06-02
+Katie,Livro,Livro,bom estado,WNV8 - 890,1,Aprovado,70,1,857,2023-02-24
+Sarah,Garrafa,Utensilio,bom estado,xCM4 - 536,1,Reprovado,23,0,921,2023-05-15
+Sarah,Chaveiro,Acessorio,horrivel,qmC4 - 891,0,Aprovado,54,1,909,2023-10-25
+Sarah,Camisa,Vestuario,saudavel,zKS5 - 236,1,Reprovado,15,1,812,2023-06-02
+Russell,Caneta,Utensilio,saudavel,ZGi7 - 966,0,Reprovado,13,1,552,2023-04-18
+Christina,Relogio,Acessorio,usado,MCf4 - 955,1,Aprovado,62,0,638,2023-08-21
+Shane,Relogio,Acessorio,novo,VoR7 - 119,0,Aprovado,48,0,501,2023-02-25
+Erika,Caneta,Utensilio,bom estado,pVw3 - 489,1,Aprovado,48,0,789,2023-06-02
+Sarah,Chaveiro,Acessorio,bom estado,bTn9 - 694,0,Reprovado,28,1,834,2023-07-01
+Heather,Livro,Livro,saudavel,Ism1 - 901,0,Aprovado,83,1,618,2023-05-15
+Courtney,Livro,Livro,novo,zmq0 - 412,0,Aprovado,3,1,812,2023-04-18
+Jason,Livro,Livro,usado,bGe3 - 472,1,Reprovado,83,0,834,2023-05-15
+Zachary,Telefone,Eletronico,saudavel,NkR5 - 624,0,Aprovado,96,0,692,2023-05-01
+Shane,Telefone,Eletronico,bom estado,WQT6 - 877,0,Reprovado,35,0,909,2023-08-08
+Christina,Caneta,Utensilio,novo,Auk6 - 796,1,Reprovado,53,0,859,2023-08-08
+Russell,Relogio,Acessorio,usado,JOG3 - 020,1,Aprovado,31,0,909,2023-08-08
+Sherri,Chaveiro,Acessorio,bom estado,NLa8 - 260,1,Reprovado,27,0,543,2023-03-29
+Virginia,Camisa,Vestuario,horrivel,ZWf1 - 799,0,Aprovado,37,0,763,2023-10-24
+Heather,Chaveiro,Acessorio,saudavel,BLp3 - 067,1,Reprovado,42,0,859,2023-07-01
+Christina,Laptop,Eletronico,novo,IsN5 - 156,1,Aprovado,75,1,652,2023-06-03
+Russell,Caneta,Utensilio,bom estado,Bqz6 - 652,1,Aprovado,65,1,859,2023-05-27
+Heather,Laptop,Eletronico,bom estado,Gak0 - 572,0,Reprovado,35,0,692,2023-07-01
+Virginia,Caneca,Utensilio,usado,egH2 - 444,0,Reprovado,21,1,921,2023-10-24
+George,Relogio,Acessorio,saudavel,ful7 - 862,0,Reprovado,20,0,857,2023-06-03
+Sherri,Telefone,Eletronico,horrivel,JtR0 - 577,0,Reprovado,3,1,692,2023-07-01
+Alexander,Caneca,Utensilio,bom estado,itX7 - 164,1,Aprovado,28,0,618,2023-05-01
+Erika,Caneca,Utensilio,novo,Rsw2 - 764,0,Aprovado,61,1,618,2023-08-08
+Sarah,Livro,Livro,usado,Xea1 - 624,0,Reprovado,100,1,763,2023-06-03
+Heather,Laptop,Eletronico,usado,xib2 - 135,1,Reprovado,100,0,921,2023-06-03
+Joe,Relogio,Acessorio,saudavel,CoC5 - 890,0,Reprovado,55,0,909,2023-06-03
+Brian,Relogio,Acessorio,novo,fjg0 - 380,0,Aprovado,60,1,833,2023-08-21
+Kristin,Garrafa,Utensilio,bom estado,meY3 - 034,1,Aprovado,55,1,618,2023-05-27
+Russell,Garrafa,Utensilio,bom estado,ees1 - 613,1,Aprovado,28,1,638,2023-06-03
+Shane,Livro,Livro,horrivel,SxY4 - 258,0,Aprovado,90,1,652,2023-02-25
+Daniel,Camisa,Vestuario,saudavel,KYx0 - 201,1,Aprovado,55,0,833,2023-10-25
+Katie,Mochila,Vestuario,horrivel,pbe0 - 745,1,Reprovado,86,0,833,2023-03-31
+Alexander,Livro,Livro,horrivel,bWI8 - 727,1,Aprovado,31,1,909,2023-10-25
+Sarah,Laptop,Eletronico,horrivel,kSg9 - 159,0,Aprovado,46,1,859,2023-08-08
+Russell,Camisa,Vestuario,usado,QvF9 - 933,1,Aprovado,85,0,909,2023-08-08
+Brian,Caneca,Utensilio,usado,cQS9 - 396,0,Aprovado,56,1,921,2023-02-20
+Zachary,Garrafa,Utensilio,novo,myA6 - 784,0,Aprovado,41,0,988,2023-05-27
+Daniel,Relogio,Acessorio,novo,fHa1 - 570,0,Reprovado,49,1,638,2023-04-09
+Kristin,Caneta,Utensilio,saudavel,ZQs7 - 890,0,Reprovado,94,0,543,2023-08-08
+Christina,Mochila,Vestuario,usado,Nrm6 - 678,0,Reprovado,80,0,652,2023-08-08
+Kristin,Mochila,Vestuario,usado,Ztx4 - 433,0,Reprovado,44,1,763,2023-03-29
+Courtney,Relogio,Acessorio,novo,jWB9 - 026,1,Aprovado,34,1,909,2023-03-31
+Heather,Laptop,Eletronico,horrivel,ASF2 - 339,0,Reprovado,94,0,759,2023-02-24
+Katie,Telefone,Eletronico,horrivel,Ydn6 - 538,1,Reprovado,76,0,501,2023-02-24
+Erika,Caneca,Utensilio,horrivel,qpE5 - 278,1,Reprovado,42,1,833,2023-08-21
+Russell,Chaveiro,Acessorio,saudavel,RoV4 - 888,1,Reprovado,63,0,692,2023-11-08
+Heather,Telefone,Eletronico,novo,Klj0 - 817,1,Aprovado,50,0,988,2023-08-21
+Sarah,Mochila,Vestuario,horrivel,ACb1 - 109,0,Reprovado,39,1,543,2023-08-08
+Joe,Caneta,Utensilio,usado,Ltm4 - 153,0,Aprovado,16,1,833,2023-07-01
+George,Telefone,Eletronico,bom estado,VfZ3 - 939,0,Reprovado,49,0,692,2023-05-27
+Joe,Chaveiro,Acessorio,horrivel,Lan3 - 062,1,Reprovado,19,0,763,2023-02-25
+Christina,Chaveiro,Acessorio,novo,LeB8 - 677,1,Reprovado,61,1,857,2023-02-25
+George,Livro,Livro,saudavel,MGN8 - 796,1,Reprovado,94,0,909,2023-05-01
+Virginia,Relogio,Acessorio,bom estado,EjI7 - 067,1,Aprovado,81,1,730,2023-06-02
+Brian,Camisa,Vestuario,saudavel,OGv1 - 855,0,Aprovado,28,1,833,2023-04-09
+Heather,Livro,Livro,usado,Zvi4 - 485,0,Aprovado,59,1,812,2023-11-08
+Heather,Livro,Livro,horrivel,FyR9 - 773,1,Aprovado,34,1,543,2023-08-08
+Erika,Mochila,Vestuario,usado,Wkw5 - 774,0,Reprovado,94,0,859,2023-04-09
+Alexander,Relogio,Acessorio,novo,njt8 - 863,1,Reprovado,76,1,857,2023-10-24
+Sherri,Chaveiro,Acessorio,bom estado,phX2 - 634,1,Aprovado,88,1,543,2023-10-24
+Alexander,Caneca,Utensilio,horrivel,Mci2 - 785,0,Aprovado,1,1,921,2023-02-24
+Daniel,Caneca,Utensilio,saudavel,WXB8 - 024,0,Reprovado,92,1,833,2023-10-24
+Courtney,Relogio,Acessorio,horrivel,wqs6 - 576,0,Reprovado,100,1,833,2023-05-27
+Sherri,Camisa,Vestuario,usado,dMa8 - 638,1,Reprovado,84,1,859,2023-06-02
+Sarah,Garrafa,Utensilio,bom estado,tGb2 - 510,1,Reprovado,20,0,730,2023-05-01
+Daniel,Camisa,Vestuario,usado,bpn4 - 783,1,Reprovado,95,1,921,2023-04-09
+Scott,Camisa,Vestuario,horrivel,JwR8 - 711,0,Reprovado,14,0,730,2023-02-24
+Scott,Garrafa,Utensilio,horrivel,jPX6 - 081,0,Aprovado,39,0,543,2023-06-02
+Sherry,Garrafa,Utensilio,saudavel,xLS3 - 742,0,Reprovado,95,0,763,2023-07-15
+Christy,Caneta,Utensilio,saudavel,Klo8 - 998,1,Aprovado,45,1,572,2023-07-26
+Nicholas,Chaveiro,Acessorio,usado,ilW0 - 485,0,Reprovado,55,0,778,2023-07-26
+Kyle,Livro,Livro,bom estado,FAG4 - 797,0,Reprovado,19,0,574,2023-05-22
+Taylor,Telefone,Eletronico,novo,IUO8 - 820,0,Reprovado,69,0,763,2023-11-13
+Christian,Caneca,Utensilio,saudavel,Ilj9 - 579,1,Reprovado,52,1,591,2022-12-20
+Christopher,Garrafa,Utensilio,horrivel,zyC5 - 937,1,Aprovado,5,1,572,2023-04-04
+Alicia,Chaveiro,Acessorio,saudavel,HDz9 - 928,1,Aprovado,41,1,537,2023-04-04
+Sherry,Chaveiro,Acessorio,horrivel,hsf0 - 164,1,Aprovado,57,0,711,2023-04-12
+Taylor,Livro,Livro,usado,cBd0 - 861,0,Aprovado,72,1,854,2023-03-07
+Brooke,Laptop,Eletronico,bom estado,lIr6 - 726,0,Reprovado,17,0,589,2023-09-13
+Sherry,Caneca,Utensilio,usado,xvv0 - 869,0,Reprovado,79,1,749,2023-04-30
+Eric,Garrafa,Utensilio,bom estado,QWm4 - 390,1,Aprovado,23,0,763,2023-11-13
+Sherry,Telefone,Eletronico,usado,lFE3 - 609,1,Aprovado,93,0,510,2023-09-13
+Charles,Laptop,Eletronico,novo,DgJ7 - 688,0,Aprovado,27,1,591,2023-01-16
+Amy,Garrafa,Utensilio,bom estado,JFA3 - 305,1,Reprovado,86,1,829,2023-05-22
+Christy,Mochila,Vestuario,bom estado,Xxt9 - 234,0,Reprovado,73,0,648,2023-09-13
+Nicholas,Laptop,Eletronico,novo,rdV4 - 711,1,Reprovado,13,0,803,2023-09-13
+Julia,Livro,Livro,usado,MvI8 - 066,1,Reprovado,58,1,595,2023-10-06
+Julia,Laptop,Eletronico,saudavel,WaR3 - 377,1,Reprovado,75,1,589,2023-04-30
+Charles,Caneca,Utensilio,saudavel,DbE8 - 258,0,Aprovado,83,0,749,2023-04-04
+Taylor,Livro,Livro,horrivel,vlP9 - 267,1,Reprovado,38,0,595,2022-12-20
+Amy,Garrafa,Utensilio,bom estado,TLV3 - 099,0,Reprovado,50,1,595,2023-04-21
+Allison,Telefone,Eletronico,saudavel,ADF3 - 399,0,Aprovado,99,0,870,2023-04-04
+Charles,Relogio,Acessorio,horrivel,LuH2 - 568,0,Reprovado,47,0,829,2023-05-06
+Shannon,Garrafa,Utensilio,saudavel,Spe0 - 187,1,Reprovado,6,1,850,2023-08-23
+Charles,Telefone,Eletronico,horrivel,Whi1 - 671,1,Aprovado,57,0,572,2023-04-30
+Kyle,Caneca,Utensilio,novo,GNS0 - 462,0,Aprovado,23,1,648,2023-07-26
+Shannon,Caneta,Utensilio,saudavel,CMI8 - 291,1,Reprovado,64,0,574,2023-11-12
+Christine,Mochila,Vestuario,usado,iFA5 - 876,1,Reprovado,92,1,744,2022-12-16
+Christy,Caneta,Utensilio,saudavel,DHF7 - 368,0,Reprovado,38,1,803,2023-01-16
+Jason,Chaveiro,Acessorio,bom estado,nqb4 - 826,1,Aprovado,4,1,854,2023-04-21
+Taylor,Caneta,Utensilio,bom estado,jzC6 - 355,1,Reprovado,61,0,589,2023-07-15
+Jesus,Garrafa,Utensilio,horrivel,YWA4 - 993,1,Reprovado,46,1,803,2023-03-07
+Jason,Relogio,Acessorio,usado,zre5 - 620,0,Aprovado,65,0,829,2023-03-20
+Christy,Chaveiro,Acessorio,saudavel,MXD0 - 238,0,Reprovado,27,0,595,2023-11-12
+Shannon,Caneta,Utensilio,saudavel,vML1 - 441,0,Reprovado,7,0,537,2023-09-13
+Sherry,Caneta,Utensilio,novo,XZz0 - 617,0,Reprovado,75,0,870,2023-07-26
+Brooke,Camisa,Vestuario,usado,ASb9 - 538,1,Reprovado,0,0,648,2023-04-30
+Nicholas,Mochila,Vestuario,saudavel,QsY4 - 984,1,Reprovado,6,0,711,2023-11-13
+Christopher,Mochila,Vestuario,usado,cmn5 - 676,0,Aprovado,9,1,870,2023-04-12
+Carol,Livro,Livro,horrivel,EpU6 - 434,1,Aprovado,6,1,850,2023-10-06
+Nicholas,Laptop,Eletronico,saudavel,IhW4 - 093,0,Aprovado,94,0,595,2023-03-20
+Jason,Chaveiro,Acessorio,horrivel,WCH6 - 353,0,Reprovado,71,0,510,2023-03-07
+Carol,Garrafa,Utensilio,bom estado,NlG5 - 716,1,Aprovado,89,1,870,2023-03-20
+Julia,Mochila,Vestuario,novo,CHx1 - 794,1,Reprovado,27,1,854,2023-05-22
+Amy,Laptop,Eletronico,novo,QEG7 - 419,0,Reprovado,71,1,778,2023-03-20
+Julia,Chaveiro,Acessorio,saudavel,EKI0 - 880,1,Aprovado,51,1,803,2023-03-20
+Taylor,Caneca,Utensilio,saudavel,tMY9 - 581,1,Aprovado,73,0,574,2023-11-13
+Kevin,Relogio,Acessorio,saudavel,Nrd0 - 384,0,Aprovado,1,0,589,2023-11-12
+Jason,Livro,Livro,horrivel,Ekd5 - 158,1,Reprovado,88,0,854,2023-04-30
+Allison,Garrafa,Utensilio,novo,YLv2 - 925,1,Reprovado,1,0,572,2023-08-23
+Sherry,Livro,Livro,novo,kAY6 - 072,1,Aprovado,39,0,510,2023-04-12
+Brooke,Relogio,Acessorio,horrivel,iiZ5 - 467,1,Aprovado,30,1,850,2023-07-26
+Taylor,Caneca,Utensilio,novo,YgT3 - 653,1,Aprovado,80,0,829,2023-07-26
+Christopher,Telefone,Eletronico,bom estado,HLN0 - 707,0,Reprovado,86,1,586,2022-12-20
+Christian,Relogio,Acessorio,horrivel,Dgm0 - 744,1,Reprovado,68,1,510,2023-01-16
+Charles,Relogio,Acessorio,bom estado,vkz9 - 402,1,Reprovado,39,0,850,2023-04-30
+Christian,Livro,Livro,saudavel,yDH5 - 998,0,Aprovado,2,0,749,2023-03-07
+Christy,Relogio,Acessorio,horrivel,Ahr8 - 223,1,Aprovado,5,1,510,2023-03-20
+Eric,Camisa,Vestuario,usado,COV2 - 813,1,Aprovado,97,0,778,2023-04-21
+Jason,Laptop,Eletronico,saudavel,gib4 - 500,1,Reprovado,74,0,763,2023-10-06
+Christy,Garrafa,Utensilio,usado,VGl8 - 888,0,Reprovado,27,0,510,2023-02-03
+Taylor,Laptop,Eletronico,usado,fhL0 - 268,0,Aprovado,12,1,763,2023-07-15
+Kyle,Chaveiro,Acessorio,saudavel,WcE3 - 848,1,Aprovado,95,0,586,2023-02-03
+Eric,Livro,Livro,saudavel,gux2 - 250,0,Reprovado,35,0,586,2023-07-15
+Christy,Caneta,Utensilio,horrivel,DRa5 - 387,1,Aprovado,78,1,572,2023-02-03
+Charles,Caneca,Utensilio,horrivel,RBE4 - 713,0,Aprovado,72,0,595,2023-06-18
+Carol,Garrafa,Utensilio,novo,szb1 - 269,0,Reprovado,19,1,595,2023-08-23
+Amy,Chaveiro,Acessorio,novo,obY7 - 227,1,Aprovado,43,0,591,2023-09-13
+Jason,Livro,Livro,horrivel,wfz3 - 302,0,Reprovado,2,1,537,2023-04-12
+Christian,Garrafa,Utensilio,novo,CGi9 - 277,0,Aprovado,40,0,711,2023-11-13
+Brooke,Relogio,Acessorio,bom estado,TKZ8 - 315,0,Aprovado,26,1,870,2023-03-20
+Charles,Laptop,Eletronico,novo,TRN7 - 121,1,Reprovado,73,1,537,2022-12-16
+Julia,Laptop,Eletronico,bom estado,Oin8 - 009,0,Reprovado,44,1,572,2023-02-03
+Christian,Livro,Livro,usado,RUh8 - 759,0,Aprovado,25,0,537,2023-04-21
+Brooke,Livro,Livro,bom estado,cfI3 - 912,0,Reprovado,93,1,510,2022-12-20
+Allison,Laptop,Eletronico,usado,DHm4 - 469,0,Reprovado,37,0,870,2023-07-15
+Christian,Laptop,Eletronico,novo,cxC3 - 171,1,Reprovado,99,1,854,2023-05-22
+Eric,Caneta,Utensilio,saudavel,HRs9 - 652,0,Aprovado,9,1,648,2023-02-03
+Amy,Relogio,Acessorio,saudavel,ofr4 - 392,1,Aprovado,55,0,870,2023-07-26
+Jason,Laptop,Eletronico,horrivel,ldR5 - 965,1,Aprovado,35,0,591,2023-04-04
+Nicholas,Caneca,Utensilio,usado,SWp1 - 532,0,Aprovado,94,0,595,2023-02-03
+Julia,Relogio,Acessorio,bom estado,ISD3 - 787,1,Reprovado,48,0,510,2023-09-13
+Kyle,Livro,Livro,usado,Mwl3 - 163,0,Reprovado,76,0,744,2023-05-22
+Shannon,Caneta,Utensilio,saudavel,WSX7 - 905,1,Aprovado,85,0,586,2023-01-16
+Julia,Mochila,Vestuario,novo,LAc7 - 086,1,Reprovado,35,1,744,2023-06-18
+Christian,Livro,Livro,horrivel,WJG7 - 028,0,Reprovado,95,0,829,2023-01-16
+Jason,Relogio,Acessorio,bom estado,oXu8 - 940,0,Aprovado,99,1,803,2023-04-21
+Alicia,Relogio,Acessorio,bom estado,mPy9 - 210,0,Aprovado,92,1,744,2022-12-20
+Sherry,Chaveiro,Acessorio,bom estado,JdD0 - 104,0,Aprovado,28,0,595,2023-05-22
+Christian,Caneca,Utensilio,novo,oib9 - 433,0,Aprovado,95,0,591,2023-04-21
+Christy,Camisa,Vestuario,bom estado,cKC3 - 085,1,Aprovado,16,0,595,2023-04-04
+Kevin,Laptop,Eletronico,usado,lTM2 - 827,0,Aprovado,14,1,763,2023-02-03
+Allison,Camisa,Vestuario,saudavel,tTc4 - 327,0,Aprovado,68,1,537,2023-04-12
+Eric,Relogio,Acessorio,bom estado,mLa2 - 919,1,Aprovado,29,1,510,2023-08-23
+Christian,Camisa,Vestuario,usado,XHM4 - 699,0,Reprovado,53,1,572,2023-04-30
+Christopher,Laptop,Eletronico,saudavel,Ems3 - 583,1,Reprovado,77,1,711,2023-02-03
+Sherry,Laptop,Eletronico,novo,inG1 - 615,1,Aprovado,44,1,595,2023-10-06
+Taylor,Camisa,Vestuario,horrivel,aLA6 - 225,1,Aprovado,53,1,595,2023-06-18
+Julia,Camisa,Vestuario,novo,nVX1 - 868,0,Aprovado,91,1,850,2023-05-06
+Amy,Caneta,Utensilio,bom estado,hZH4 - 900,1,Reprovado,0,0,510,2023-02-03
+Christine,Caneca,Utensilio,horrivel,ZCG4 - 722,1,Reprovado,29,0,510,2023-11-12
+Alicia,Camisa,Vestuario,usado,eKy4 - 947,0,Aprovado,96,1,574,2023-11-13
+Christopher,Chaveiro,Acessorio,saudavel,cJw7 - 938,0,Aprovado,97,1,744,2023-06-18
+Eric,Garrafa,Utensilio,saudavel,WuY0 - 649,0,Aprovado,11,0,595,2023-07-15
+Taylor,Livro,Livro,usado,Esa7 - 125,1,Reprovado,37,0,589,2022-12-16
+Christine,Garrafa,Utensilio,bom estado,jBG8 - 134,0,Reprovado,83,0,574,2023-08-23
+Julia,Garrafa,Utensilio,usado,FGB9 - 341,1,Reprovado,77,0,595,2023-07-15
+Jason,Camisa,Vestuario,usado,dCm2 - 439,0,Aprovado,71,0,829,2023-04-04
+Sherry,Chaveiro,Acessorio,bom estado,mwZ6 - 329,0,Reprovado,61,0,595,2023-10-06
+Jason,Camisa,Vestuario,bom estado,VRk0 - 968,0,Aprovado,89,0,870,2023-11-12
+Alicia,Garrafa,Utensilio,usado,bES8 - 480,1,Aprovado,18,1,803,2022-12-20
+Nicholas,Chaveiro,Acessorio,horrivel,lMD2 - 639,1,Aprovado,31,1,744,2023-05-06
+Christian,Caneta,Utensilio,novo,KXK6 - 322,1,Reprovado,46,1,589,2023-05-06
+Allison,Garrafa,Utensilio,novo,LOq3 - 310,0,Aprovado,72,0,574,2023-09-13
+Christine,Garrafa,Utensilio,horrivel,lUR4 - 076,0,Reprovado,47,0,763,2023-11-13
+Carol,Chaveiro,Acessorio,horrivel,VDx3 - 193,1,Aprovado,77,0,589,2023-04-30
+Carol,Laptop,Eletronico,usado,Zid7 - 402,0,Aprovado,70,0,850,2023-03-20
+Christopher,Chaveiro,Acessorio,usado,AOt6 - 145,1,Aprovado,0,1,870,2023-06-18
+Sherry,Livro,Livro,horrivel,Njw8 - 194,1,Aprovado,8,0,870,2023-03-20
+Christian,Laptop,Eletronico,horrivel,lmO7 - 203,1,Aprovado,72,1,537,2023-02-03
+Shannon,Livro,Livro,bom estado,Gru1 - 153,0,Reprovado,56,1,763,2023-09-13
+Christine,Camisa,Vestuario,usado,EhJ0 - 277,1,Reprovado,12,1,870,2023-06-18
+Christy,Camisa,Vestuario,bom estado,TmW8 - 971,1,Aprovado,91,1,537,2023-02-03
+Christian,Camisa,Vestuario,saudavel,rCP4 - 185,0,Aprovado,29,0,803,2023-03-07
+Jason,Mochila,Vestuario,novo,gXr0 - 926,0,Aprovado,69,1,744,2023-07-15
+Kevin,Caneca,Utensilio,usado,Bxs7 - 447,0,Reprovado,83,0,595,2023-01-16
+Christopher,Camisa,Vestuario,saudavel,MFk1 - 983,0,Reprovado,34,1,537,2022-12-16
+Christy,Telefone,Eletronico,novo,rAK2 - 201,1,Reprovado,22,1,595,2023-05-22
+Sherry,Laptop,Eletronico,usado,Nwz6 - 912,1,Reprovado,91,1,711,2023-04-04
+Nicholas,Relogio,Acessorio,horrivel,xjB8 - 799,0,Aprovado,14,0,589,2023-11-13
+Shannon,Relogio,Acessorio,usado,zac0 - 832,0,Aprovado,40,1,803,2023-04-04
+Julia,Mochila,Vestuario,horrivel,EUU3 - 962,1,Reprovado,83,1,574,2023-04-12
+Julia,Garrafa,Utensilio,bom estado,RkV0 - 305,1,Reprovado,30,0,595,2023-06-18
+Christy,Garrafa,Utensilio,horrivel,htU4 - 828,0,Aprovado,42,0,749,2023-02-03
+Shannon,Caneca,Utensilio,usado,WIo4 - 135,0,Aprovado,6,1,510,2023-11-12
+Jason,Camisa,Vestuario,usado,XnT1 - 912,1,Reprovado,51,1,854,2022-12-20
+Julia,Mochila,Vestuario,saudavel,ImZ4 - 351,0,Reprovado,20,0,829,2023-10-06
+Kevin,Livro,Livro,horrivel,hDD3 - 701,1,Reprovado,28,0,572,2023-10-06
+Julia,Livro,Livro,bom estado,XDV6 - 266,1,Aprovado,22,0,572,2023-11-12
+Taylor,Mochila,Vestuario,novo,eLx1 - 650,0,Reprovado,76,0,854,2023-01-16
+Kyle,Livro,Livro,saudavel,rBf9 - 948,1,Reprovado,29,0,711,2023-03-07
+Amy,Telefone,Eletronico,horrivel,sSc2 - 396,0,Aprovado,40,0,854,2023-04-12
+Shannon,Caneta,Utensilio,horrivel,ocX4 - 173,1,Aprovado,93,0,574,2023-04-04
+Allison,Telefone,Eletronico,saudavel,pDZ7 - 638,0,Reprovado,76,0,589,2023-06-18
+Shannon,Mochila,Vestuario,horrivel,WnK7 - 251,1,Aprovado,34,0,778,2023-11-13
+Julia,Mochila,Vestuario,horrivel,sSa6 - 220,1,Aprovado,99,0,648,2023-06-18
+Eric,Relogio,Acessorio,usado,kia2 - 192,0,Aprovado,70,0,586,2023-07-15
+Shannon,Relogio,Acessorio,bom estado,YeD9 - 867,1,Aprovado,38,1,854,2023-02-03
+Shannon,Caneta,Utensilio,horrivel,jVB6 - 820,1,Reprovado,80,1,648,2023-04-21
+Julia,Garrafa,Utensilio,usado,jHv6 - 564,1,Reprovado,72,0,763,2023-04-21
+Christine,Camisa,Vestuario,horrivel,FEU1 - 374,0,Aprovado,92,0,591,2023-05-22
+Taylor,Chaveiro,Acessorio,saudavel,PuO3 - 803,0,Aprovado,93,0,537,2023-10-06
+Kevin,Caneca,Utensilio,novo,QrQ5 - 987,1,Reprovado,79,0,803,2023-10-06
+Carol,Camisa,Vestuario,bom estado,lQm0 - 136,0,Aprovado,11,0,854,2022-12-20
+Brooke,Mochila,Vestuario,bom estado,jRt8 - 304,0,Aprovado,10,1,510,2023-02-03
+Julia,Livro,Livro,bom estado,QiG8 - 035,1,Aprovado,16,1,574,2023-02-03
+Sherry,Garrafa,Utensilio,novo,mej8 - 434,1,Reprovado,62,1,537,2023-03-20
+Amy,Telefone,Eletronico,bom estado,ASo3 - 817,1,Aprovado,97,1,574,2023-02-03
+Nicholas,Camisa,Vestuario,usado,uKu1 - 699,1,Reprovado,39,0,574,2023-11-12
+Kevin,Caneta,Utensilio,usado,wHX7 - 336,0,Reprovado,48,1,850,2023-03-07
+Nicholas,Chaveiro,Acessorio,bom estado,mGZ4 - 258,0,Aprovado,92,1,850,2022-12-16
+Christine,Telefone,Eletronico,novo,lgr9 - 091,1,Aprovado,12,1,749,2023-07-15
+Christy,Livro,Livro,novo,DtV0 - 699,0,Reprovado,92,0,537,2023-05-22
+Carol,Chaveiro,Acessorio,saudavel,oqp2 - 068,1,Aprovado,32,0,572,2023-11-12
+Taylor,Garrafa,Utensilio,saudavel,ttM2 - 442,0,Reprovado,76,1,711,2023-07-15
+Shannon,Caneca,Utensilio,bom estado,ZEq1 - 105,0,Reprovado,50,0,763,2023-07-26
+Shannon,Mochila,Vestuario,novo,VCK2 - 568,0,Aprovado,92,0,778,2023-03-20
+Amy,Caneca,Utensilio,bom estado,sHw0 - 081,0,Aprovado,65,0,572,2022-12-16
+Alicia,Mochila,Vestuario,horrivel,Bgf8 - 545,1,Aprovado,77,1,744,2023-07-15
+Shannon,Relogio,Acessorio,usado,GTT3 - 771,0,Reprovado,6,0,537,2023-02-03
+Christian,Garrafa,Utensilio,bom estado,QtJ0 - 153,0,Aprovado,91,0,711,2023-07-26
+Carol,Relogio,Acessorio,bom estado,Hiw5 - 038,1,Reprovado,88,1,778,2023-04-21
+Jesus,Caneta,Utensilio,usado,nsw6 - 688,0,Reprovado,47,1,803,2023-05-06
+Shannon,Relogio,Acessorio,bom estado,JWR0 - 700,1,Reprovado,67,1,778,2023-02-03
+Sherry,Garrafa,Utensilio,usado,OYi7 - 947,1,Reprovado,8,1,537,2022-12-20
+Brooke,Livro,Livro,horrivel,DJT5 - 990,1,Aprovado,0,1,586,2023-05-06
+Carol,Laptop,Eletronico,saudavel,ZAo9 - 961,0,Reprovado,58,1,711,2023-02-03
+Alicia,Mochila,Vestuario,horrivel,BXr0 - 643,0,Aprovado,81,0,763,2023-05-22
+Sherry,Camisa,Vestuario,horrivel,gXa4 - 232,0,Reprovado,36,0,510,2023-06-18
+Taylor,Garrafa,Utensilio,saudavel,Gkl7 - 614,1,Aprovado,45,0,537,2023-04-30
+Sherry,Caneta,Utensilio,novo,qFn3 - 446,1,Reprovado,40,0,574,2023-08-23
+Eric,Chaveiro,Acessorio,usado,gqJ4 - 206,0,Reprovado,96,1,510,2023-11-12
+Kyle,Chaveiro,Acessorio,usado,PEZ3 - 067,0,Aprovado,20,1,744,2023-07-15
+Brooke,Relogio,Acessorio,saudavel,PhH8 - 058,0,Aprovado,0,0,586,2023-01-16
+Christopher,Caneca,Utensilio,usado,OLA1 - 764,0,Aprovado,21,1,510,2023-04-12
+Christine,Chaveiro,Acessorio,novo,whL8 - 736,0,Aprovado,51,0,510,2022-12-16
+Brooke,Telefone,Eletronico,bom estado,sOK9 - 735,0,Aprovado,89,0,870,2023-05-22
+Christy,Mochila,Vestuario,saudavel,rpF4 - 248,0,Reprovado,7,1,829,2023-04-21
+Kyle,Laptop,Eletronico,usado,mLz0 - 713,0,Reprovado,28,0,870,2023-04-12
+Jason,Livro,Livro,horrivel,Fri5 - 762,0,Aprovado,16,0,778,2023-09-13
+Jesus,Caneta,Utensilio,bom estado,Awf5 - 190,1,Aprovado,49,1,763,2023-04-04
+Shannon,Chaveiro,Acessorio,usado,JiW6 - 737,0,Reprovado,82,0,854,2023-04-21
+Charles,Livro,Livro,saudavel,vAD2 - 527,1,Reprovado,28,1,510,2023-07-26
+Kevin,Caneta,Utensilio,novo,qwo0 - 219,0,Reprovado,68,0,648,2023-06-18
+Nicholas,Camisa,Vestuario,bom estado,mEH8 - 796,1,Aprovado,26,1,574,2023-05-06
+Christian,Caneta,Utensilio,usado,fDo0 - 805,1,Reprovado,80,1,572,2023-02-03
+Nicholas,Mochila,Vestuario,bom estado,jnO3 - 003,1,Reprovado,69,0,778,2023-08-23
+Julia,Caneta,Utensilio,bom estado,WuY3 - 538,0,Aprovado,76,1,537,2023-11-12
+Allison,Chaveiro,Acessorio,horrivel,CyH2 - 703,1,Reprovado,92,1,537,2023-07-26
+Shannon,Caneta,Utensilio,saudavel,CaP7 - 303,0,Aprovado,60,0,586,2022-12-20
+Taylor,Laptop,Eletronico,horrivel,Moh1 - 869,0,Reprovado,60,1,586,2023-06-18
+Jesus,Chaveiro,Acessorio,novo,Fkd0 - 243,1,Reprovado,80,0,591,2023-07-15
+Christopher,Garrafa,Utensilio,usado,JXj7 - 678,0,Reprovado,42,1,591,2023-04-04
+Jason,Relogio,Acessorio,horrivel,cdL0 - 148,1,Aprovado,10,0,572,2023-11-13
+Christopher,Garrafa,Utensilio,bom estado,tGG1 - 179,0,Aprovado,11,0,778,2023-01-16
+Christian,Garrafa,Utensilio,bom estado,Pai6 - 698,1,Reprovado,18,1,711,2023-06-18
+Kyle,Camisa,Vestuario,bom estado,PqZ7 - 168,1,Aprovado,80,0,537,2023-05-06
+Christy,Mochila,Vestuario,usado,Ofg6 - 152,0,Aprovado,72,1,648,2023-01-16
+Nicholas,Laptop,Eletronico,novo,ZkM7 - 236,0,Reprovado,57,0,749,2023-07-15
+Jesus,Relogio,Acessorio,usado,emL8 - 617,0,Aprovado,5,0,537,2023-10-06
+Brooke,Mochila,Vestuario,novo,QIk4 - 184,1,Reprovado,98,0,711,2022-12-20
+Shannon,Laptop,Eletronico,bom estado,mWx8 - 331,1,Aprovado,24,1,595,2023-04-04
+Kyle,Camisa,Vestuario,novo,Ujs0 - 723,0,Reprovado,6,1,586,2023-11-13
+Kevin,Camisa,Vestuario,saudavel,Koa1 - 006,1,Reprovado,95,0,586,2023-03-07
+Nicholas,Relogio,Acessorio,novo,SkS7 - 857,0,Aprovado,71,0,744,2023-04-30
+Jason,Caneca,Utensilio,horrivel,dVY1 - 370,0,Aprovado,18,1,574,2023-08-23
+Christian,Telefone,Eletronico,usado,pWs1 - 659,0,Aprovado,40,1,744,2023-03-20
+Carol,Relogio,Acessorio,bom estado,ytQ5 - 964,0,Reprovado,74,0,749,2023-06-18
+Eric,Garrafa,Utensilio,saudavel,hWd2 - 039,1,Reprovado,17,0,591,2023-01-16
+Kyle,Telefone,Eletronico,novo,yEF2 - 620,0,Aprovado,35,1,711,2023-05-06
+Shannon,Chaveiro,Acessorio,novo,Ysz9 - 652,0,Reprovado,18,0,829,2023-02-03
+Jesus,Chaveiro,Acessorio,usado,AUS5 - 781,0,Reprovado,39,0,572,2023-04-12
+Alicia,Telefone,Eletronico,novo,QWY5 - 380,0,Aprovado,5,0,778,2023-03-07
+Sherry,Relogio,Acessorio,horrivel,lOM4 - 639,1,Reprovado,83,0,589,2023-04-30
+Taylor,Caneca,Utensilio,horrivel,hhc7 - 929,1,Aprovado,91,0,574,2023-05-22
+Sherry,Chaveiro,Acessorio,horrivel,NIP2 - 836,0,Reprovado,68,0,595,2023-05-06
+Jesus,Chaveiro,Acessorio,usado,ipl8 - 626,1,Reprovado,43,0,586,2023-07-26
+Brooke,Camisa,Vestuario,usado,waT4 - 176,0,Reprovado,45,1,829,2023-07-15
+Christine,Telefone,Eletronico,usado,bdS8 - 881,0,Aprovado,13,0,572,2023-07-26
+Kyle,Garrafa,Utensilio,novo,RWu0 - 841,1,Reprovado,24,0,595,2023-10-06
+Amy,Livro,Livro,horrivel,LjW6 - 245,1,Aprovado,77,1,711,2023-04-21
+Kevin,Chaveiro,Acessorio,novo,OYK6 - 761,0,Aprovado,38,0,595,2023-04-12
+Alicia,Caneca,Utensilio,usado,SNV0 - 988,0,Reprovado,92,1,586,2023-11-12
+Christine,Relogio,Acessorio,usado,MJU7 - 994,0,Aprovado,7,1,829,2022-12-16
+Sherry,Livro,Livro,novo,WXH3 - 337,1,Reprovado,94,1,648,2023-08-23
+Christy,Livro,Livro,bom estado,DOn4 - 152,1,Reprovado,13,0,586,2023-03-20
+Alicia,Garrafa,Utensilio,novo,qiI8 - 778,0,Aprovado,90,1,591,2023-04-04
+Christopher,Mochila,Vestuario,horrivel,HRx5 - 099,1,Reprovado,35,1,803,2023-06-18
+Allison,Telefone,Eletronico,usado,fnv6 - 899,0,Reprovado,71,1,778,2023-07-15
+Brooke,Mochila,Vestuario,usado,VvI6 - 547,0,Reprovado,93,1,586,2023-06-18
+Julia,Chaveiro,Acessorio,bom estado,aqn6 - 968,1,Reprovado,78,1,595,2023-06-18
+Kyle,Livro,Livro,horrivel,dZc8 - 577,1,Reprovado,72,1,778,2023-04-30
+Jesus,Chaveiro,Acessorio,usado,hQT5 - 903,0,Aprovado,14,0,595,2022-12-20
+Eric,Caneta,Utensilio,bom estado,Fck1 - 287,1,Reprovado,26,0,763,2023-10-06
+Kevin,Garrafa,Utensilio,horrivel,qAB1 - 459,0,Reprovado,28,0,870,2023-03-07
+Brooke,Relogio,Acessorio,bom estado,dTU6 - 409,0,Aprovado,78,0,749,2023-08-23
+Kevin,Caneta,Utensilio,usado,KkN4 - 625,0,Reprovado,38,0,763,2023-05-06
+Shannon,Telefone,Eletronico,saudavel,qSq9 - 613,1,Reprovado,18,0,572,2023-03-07
+Julia,Camisa,Vestuario,horrivel,yrT8 - 904,0,Aprovado,93,1,589,2023-04-12
+Carol,Camisa,Vestuario,usado,jKx1 - 733,0,Reprovado,15,0,572,2023-07-26
+Alicia,Mochila,Vestuario,bom estado,qPm7 - 169,1,Reprovado,19,1,572,2023-04-04
+Christopher,Mochila,Vestuario,usado,esh7 - 257,0,Aprovado,97,1,870,2023-04-21
+Sherry,Camisa,Vestuario,horrivel,Ady4 - 600,0,Aprovado,53,1,510,2023-07-15
+Jesus,Relogio,Acessorio,usado,CpE5 - 827,1,Reprovado,33,0,648,2023-04-12
+Julia,Mochila,Vestuario,bom estado,bVG2 - 786,1,Reprovado,36,0,850,2023-02-03
+Christy,Mochila,Vestuario,bom estado,weS6 - 280,1,Aprovado,21,0,854,2023-02-03
+Jason,Garrafa,Utensilio,usado,hKl4 - 685,1,Aprovado,21,1,744,2022-12-16
+Jesus,Relogio,Acessorio,saudavel,QhH2 - 240,1,Aprovado,19,0,586,2023-02-03
+Kevin,Caneta,Utensilio,saudavel,HLg1 - 972,1,Reprovado,1,0,749,2023-04-21
+Amy,Telefone,Eletronico,saudavel,mzS4 - 158,1,Reprovado,52,0,589,2023-04-30
+Nicholas,Relogio,Acessorio,saudavel,zfE7 - 658,0,Reprovado,47,1,648,2023-08-23
+Sherry,Caneta,Utensilio,novo,xJS6 - 057,0,Reprovado,69,1,763,2022-12-16
+Kyle,Garrafa,Utensilio,novo,sei8 - 985,0,Reprovado,54,1,595,2023-08-23
+Carol,Laptop,Eletronico,usado,QLJ6 - 495,0,Reprovado,85,0,749,2022-12-20
+Christy,Telefone,Eletronico,novo,HrG2 - 247,1,Aprovado,2,0,778,2023-05-22
+Christian,Camisa,Vestuario,usado,yLG3 - 656,1,Reprovado,47,0,510,2023-07-26
+Amy,Caneca,Utensilio,novo,AFB4 - 888,1,Aprovado,83,0,537,2022-12-20
+Taylor,Telefone,Eletronico,bom estado,sgV9 - 559,0,Reprovado,42,0,572,2023-04-12
+Alicia,Caneta,Utensilio,novo,nip6 - 597,1,Reprovado,58,1,763,2022-12-20
+Allison,Chaveiro,Acessorio,usado,oUB1 - 706,0,Aprovado,50,0,589,2023-03-07
+Jesus,Camisa,Vestuario,saudavel,OfG0 - 079,0,Reprovado,96,1,763,2023-01-16
+Christian,Garrafa,Utensilio,bom estado,aqb4 - 143,1,Reprovado,12,0,803,2023-05-06
+Eric,Chaveiro,Acessorio,saudavel,YrP6 - 083,1,Reprovado,4,0,778,2023-03-07
+Christian,Garrafa,Utensilio,horrivel,ZhW2 - 139,0,Aprovado,9,0,586,2023-06-18
+Jesus,Livro,Livro,novo,fZk1 - 020,1,Aprovado,67,0,829,2023-08-23
+Alicia,Caneta,Utensilio,saudavel,Riy5 - 864,0,Aprovado,70,0,850,2023-04-21
+Christine,Garrafa,Utensilio,bom estado,hVZ2 - 901,0,Aprovado,98,1,572,2022-12-20
+Julia,Livro,Livro,saudavel,aaq8 - 725,1,Reprovado,65,0,850,2023-11-12
+Kyle,Garrafa,Utensilio,novo,qWw7 - 021,0,Aprovado,79,1,589,2023-07-26
+Kyle,Livro,Livro,novo,hat0 - 941,0,Reprovado,29,1,854,2022-12-16
+Sherry,Relogio,Acessorio,bom estado,EbE5 - 365,0,Reprovado,30,1,589,2023-11-12
+Kyle,Telefone,Eletronico,saudavel,IOk4 - 533,0,Reprovado,30,0,763,2023-11-12
+Eric,Livro,Livro,horrivel,tEK1 - 522,0,Reprovado,86,0,589,2023-11-12
+Taylor,Chaveiro,Acessorio,novo,Gvv2 - 202,0,Reprovado,0,1,648,2022-12-20
+Amy,Mochila,Vestuario,bom estado,qCN3 - 212,1,Aprovado,7,0,744,2023-08-23
+Shannon,Caneca,Utensilio,bom estado,EHy6 - 413,1,Reprovado,16,0,870,2023-11-13
+Shannon,Relogio,Acessorio,saudavel,AUq5 - 114,1,Reprovado,63,0,589,2023-09-13
+Charles,Relogio,Acessorio,saudavel,Lux9 - 047,1,Reprovado,40,1,572,2023-04-30
+Kevin,Telefone,Eletronico,usado,pVZ6 - 429,1,Reprovado,96,1,595,2023-05-22
+Carol,Telefone,Eletronico,horrivel,WjI9 - 872,0,Reprovado,6,0,711,2023-05-06
+Shannon,Laptop,Eletronico,horrivel,HEN8 - 232,1,Aprovado,0,0,572,2023-04-30
+Brooke,Caneta,Utensilio,saudavel,fmV7 - 289,1,Reprovado,93,0,589,2023-07-15
+Christine,Relogio,Acessorio,bom estado,kCJ1 - 308,0,Aprovado,43,0,510,2022-12-20
+Kevin,Caneca,Utensilio,saudavel,Esx8 - 126,0,Reprovado,45,0,829,2023-07-26
+Sherry,Laptop,Eletronico,novo,IRB6 - 903,1,Reprovado,99,0,589,2023-05-22
+Jason,Livro,Livro,bom estado,Hor8 - 540,0,Reprovado,22,0,744,2023-04-04
+Amy,Mochila,Vestuario,usado,Pwy4 - 910,1,Reprovado,19,1,537,2023-07-26
+Nicholas,Telefone,Eletronico,novo,mKF0 - 000,1,Reprovado,66,0,749,2023-03-20
+Jesus,Caneca,Utensilio,usado,JdF2 - 314,0,Aprovado,87,1,870,2023-07-26
+Jesus,Mochila,Vestuario,usado,iZK6 - 644,0,Reprovado,15,1,749,2023-02-03
+Taylor,Livro,Livro,usado,Uvo6 - 125,1,Reprovado,34,1,589,2023-09-13
+Eric,Laptop,Eletronico,novo,jcP9 - 809,1,Aprovado,93,0,803,2023-06-18
+Jesus,Telefone,Eletronico,saudavel,BqP9 - 966,1,Reprovado,54,1,829,2023-04-21
+Jason,Mochila,Vestuario,saudavel,ByF8 - 992,1,Aprovado,67,0,744,2023-11-12
+Allison,Relogio,Acessorio,usado,JYs4 - 629,0,Aprovado,52,1,850,2023-03-20
+Kyle,Livro,Livro,usado,mep8 - 031,0,Reprovado,55,1,586,2022-12-16
+Sherry,Relogio,Acessorio,novo,nTD3 - 936,0,Aprovado,21,0,763,2023-05-22
+Charles,Mochila,Vestuario,novo,Gov9 - 513,1,Reprovado,97,1,711,2023-03-07
+Alicia,Relogio,Acessorio,saudavel,rUx4 - 481,0,Reprovado,53,1,574,2023-04-21
+Christine,Camisa,Vestuario,novo,rcl3 - 206,0,Aprovado,23,0,854,2023-05-06
+Taylor,Chaveiro,Acessorio,horrivel,Vsq4 - 126,0,Reprovado,69,1,850,2023-08-23
+Christy,Relogio,Acessorio,novo,PVm7 - 531,1,Reprovado,18,0,744,2023-08-23
+Jason,Telefone,Eletronico,usado,WJH6 - 714,0,Reprovado,100,1,589,2023-04-04
+Brooke,Garrafa,Utensilio,horrivel,Dqk7 - 176,0,Aprovado,51,1,870,2023-07-15
+Brooke,Caneca,Utensilio,bom estado,PeH2 - 907,1,Aprovado,56,0,591,2023-09-13
+Allison,Garrafa,Utensilio,usado,Dgq9 - 349,0,Aprovado,72,1,749,2023-07-15
+Brooke,Caneca,Utensilio,novo,FGf8 - 762,1,Aprovado,75,0,595,2023-11-13
+Taylor,Telefone,Eletronico,usado,UgK4 - 192,1,Reprovado,21,0,591,2022-12-16
+Taylor,Caneta,Utensilio,bom estado,GxZ7 - 458,0,Aprovado,53,0,537,2023-04-30
+Christine,Caneca,Utensilio,saudavel,EiA3 - 910,0,Reprovado,74,1,537,2023-06-18
+Shannon,Livro,Livro,horrivel,rSh3 - 893,1,Aprovado,62,1,749,2023-07-26
+Nicholas,Telefone,Eletronico,bom estado,hQu6 - 822,0,Aprovado,66,0,648,2023-03-20
+Charles,Relogio,Acessorio,saudavel,bSF4 - 639,0,Aprovado,84,1,850,2023-08-23
+Brooke,Garrafa,Utensilio,horrivel,GuG0 - 495,0,Reprovado,64,0,854,2023-11-12
+Amy,Telefone,Eletronico,novo,IDK2 - 478,1,Aprovado,75,0,744,2023-08-23
+Brooke,Caneta,Utensilio,horrivel,YsM7 - 368,1,Aprovado,78,1,854,2023-04-04
+Brooke,Relogio,Acessorio,horrivel,JFw8 - 521,0,Reprovado,43,1,829,2023-03-20
+Carol,Garrafa,Utensilio,novo,XTK3 - 950,0,Reprovado,81,0,595,2022-12-20
+Carol,Relogio,Acessorio,saudavel,OmT2 - 663,0,Aprovado,5,0,589,2023-11-12
+Christy,Caneta,Utensilio,novo,GcD8 - 729,0,Reprovado,17,0,510,2023-03-07
+Christine,Caneta,Utensilio,saudavel,Mhr6 - 927,1,Reprovado,41,1,749,2022-12-16
+Carol,Chaveiro,Acessorio,novo,loe2 - 133,0,Aprovado,24,1,870,2023-07-26
+Christian,Relogio,Acessorio,usado,zDs9 - 966,0,Aprovado,18,0,829,2023-02-03
+Nicholas,Relogio,Acessorio,novo,pqq0 - 246,0,Aprovado,95,1,589,2023-04-21
+Christian,Livro,Livro,bom estado,nEm3 - 911,0,Reprovado,18,0,763,2023-09-13
+Jason,Chaveiro,Acessorio,saudavel,qsX2 - 847,0,Reprovado,25,1,595,2023-08-23
+Shannon,Laptop,Eletronico,usado,omy1 - 129,1,Aprovado,47,1,749,2023-08-23
+Nicholas,Chaveiro,Acessorio,bom estado,ZTV7 - 392,0,Reprovado,34,0,574,2023-05-22
+Jesus,Mochila,Vestuario,usado,CyX0 - 183,0,Aprovado,10,0,778,2023-07-26
+Kyle,Telefone,Eletronico,novo,ECw3 - 089,0,Aprovado,92,0,803,2022-12-20
+Shannon,Chaveiro,Acessorio,novo,vFy6 - 645,1,Aprovado,74,1,595,2023-10-06
+Christopher,Chaveiro,Acessorio,novo,IRY3 - 874,1,Reprovado,77,1,850,2023-04-04
+Christy,Caneta,Utensilio,bom estado,kwL8 - 419,0,Reprovado,81,1,572,2023-10-06
+Jason,Laptop,Eletronico,horrivel,mcd8 - 955,0,Reprovado,2,0,537,2023-04-30
+Eric,Mochila,Vestuario,bom estado,heK2 - 484,1,Reprovado,34,1,595,2023-02-03
+Jason,Camisa,Vestuario,horrivel,yvf2 - 937,1,Reprovado,65,1,586,2023-05-22
+Taylor,Laptop,Eletronico,saudavel,tUF9 - 283,1,Reprovado,42,1,854,2023-04-21
+Charles,Caneca,Utensilio,usado,EfA7 - 925,1,Reprovado,51,1,778,2023-05-06
+Jason,Livro,Livro,bom estado,dSI8 - 809,1,Aprovado,34,1,829,2023-05-06
+Eric,Telefone,Eletronico,usado,dNi2 - 238,1,Reprovado,96,1,711,2023-11-13
+Carol,Relogio,Acessorio,novo,Cis3 - 912,0,Reprovado,82,0,586,2023-08-23
+Christopher,Caneta,Utensilio,usado,FZh0 - 226,0,Aprovado,9,0,870,2023-03-07
+Kevin,Camisa,Vestuario,bom estado,UQO9 - 529,1,Reprovado,57,0,749,2023-11-12
+Shannon,Relogio,Acessorio,usado,FVN4 - 223,0,Aprovado,43,1,711,2023-05-06
+Julia,Mochila,Vestuario,saudavel,umG1 - 894,1,Reprovado,8,0,803,2022-12-20
+Taylor,Relogio,Acessorio,bom estado,CTE0 - 308,1,Reprovado,42,0,778,2023-05-06
+Nicholas,Telefone,Eletronico,saudavel,wIb0 - 120,0,Reprovado,30,1,595,2023-09-13
+Jesus,Caneta,Utensilio,usado,GBd1 - 302,1,Reprovado,64,1,595,2023-07-26
+Brooke,Garrafa,Utensilio,bom estado,cHJ5 - 091,0,Aprovado,96,0,778,2023-03-20
+Carol,Relogio,Acessorio,bom estado,aEZ6 - 569,1,Aprovado,36,1,870,2023-02-03
+Carol,Chaveiro,Acessorio,saudavel,riQ2 - 173,0,Aprovado,28,1,749,2023-05-22
+Taylor,Laptop,Eletronico,saudavel,Fdd2 - 537,0,Reprovado,37,0,850,2023-03-20
+Taylor,Livro,Livro,novo,qDL0 - 428,1,Aprovado,35,1,711,2023-04-21
+Christopher,Relogio,Acessorio,saudavel,PDb1 - 425,0,Reprovado,52,0,595,2023-03-20
+Eric,Caneca,Utensilio,bom estado,jEm8 - 434,0,Aprovado,80,1,572,2023-09-13
+Christian,Mochila,Vestuario,horrivel,Sbu2 - 598,0,Reprovado,90,1,510,2022-12-20
+Christy,Caneca,Utensilio,saudavel,QZi0 - 301,0,Reprovado,82,0,591,2023-05-22
+Jesus,Garrafa,Utensilio,bom estado,gIW4 - 792,1,Aprovado,38,1,749,2023-01-16
+Eric,Laptop,Eletronico,novo,uOH9 - 228,0,Reprovado,62,0,589,2023-04-21
+Brooke,Livro,Livro,novo,tMl9 - 831,0,Reprovado,23,0,829,2023-04-04
+Julia,Laptop,Eletronico,usado,KeY6 - 329,0,Aprovado,89,0,870,2023-03-07
+Jason,Chaveiro,Acessorio,novo,PSs3 - 009,1,Aprovado,4,0,763,2023-07-26
+Julia,Laptop,Eletronico,usado,yeH6 - 162,1,Aprovado,81,0,591,2023-04-21
+Shannon,Relogio,Acessorio,horrivel,htA0 - 953,1,Aprovado,13,0,829,2023-02-03
+Kyle,Garrafa,Utensilio,usado,XPw9 - 650,0,Aprovado,13,1,510,2023-03-20
+Jesus,Mochila,Vestuario,saudavel,FnM7 - 211,1,Reprovado,94,0,829,2023-03-20
+Kevin,Chaveiro,Acessorio,bom estado,gAi9 - 135,0,Aprovado,74,0,586,2023-01-16
+Kyle,Mochila,Vestuario,usado,oqR6 - 997,0,Aprovado,86,0,586,2023-10-06
+Amy,Laptop,Eletronico,usado,avf6 - 641,1,Reprovado,10,1,829,2023-11-12
+Jason,Garrafa,Utensilio,usado,isX1 - 825,0,Aprovado,42,1,574,2023-06-18
+Carol,Camisa,Vestuario,novo,fWm5 - 069,1,Aprovado,26,1,778,2023-10-06
+Allison,Livro,Livro,bom estado,Hap7 - 460,1,Aprovado,81,1,595,2023-03-20
+Sherry,Chaveiro,Acessorio,saudavel,eEg3 - 903,0,Reprovado,72,0,711,2023-07-15
+Kyle,Caneca,Utensilio,saudavel,YnX0 - 689,0,Reprovado,29,1,595,2023-07-15
+Alicia,Caneta,Utensilio,saudavel,EJa7 - 133,1,Reprovado,70,0,744,2023-07-26
+Amy,Laptop,Eletronico,horrivel,MyS4 - 490,0,Aprovado,51,0,595,2023-07-15
+Jason,Garrafa,Utensilio,novo,QHr6 - 926,1,Aprovado,11,1,829,2023-01-16
+Kevin,Laptop,Eletronico,usado,oFl5 - 746,0,Aprovado,65,0,829,2023-04-12
+Julia,Relogio,Acessorio,bom estado,yZD0 - 052,1,Reprovado,98,1,778,2023-04-04
+Julia,Laptop,Eletronico,saudavel,ciM8 - 167,1,Reprovado,24,1,854,2023-08-23
+Shannon,Laptop,Eletronico,bom estado,lnv2 - 260,1,Aprovado,58,0,537,2023-11-13
+Sherry,Chaveiro,Acessorio,saudavel,eZh7 - 979,1,Aprovado,70,0,510,2023-08-23
+Christine,Caneta,Utensilio,bom estado,FRj7 - 757,1,Reprovado,62,0,586,2022-12-20
+Taylor,Livro,Livro,novo,Lys6 - 642,0,Reprovado,40,0,763,2023-08-23
+Brooke,Livro,Livro,usado,pcn8 - 953,1,Aprovado,95,1,537,2023-04-30
+Taylor,Garrafa,Utensilio,horrivel,iqT2 - 033,0,Reprovado,34,1,591,2023-05-22
+Nicholas,Camisa,Vestuario,saudavel,FVK6 - 233,0,Aprovado,9,0,744,2023-02-03
+Christian,Garrafa,Utensilio,novo,qnr0 - 644,1,Reprovado,60,0,589,2023-04-04
+Kevin,Mochila,Vestuario,saudavel,nsu7 - 067,1,Reprovado,53,0,591,2023-04-04
+Taylor,Laptop,Eletronico,usado,sbI3 - 728,0,Aprovado,36,0,510,2023-03-07
+Christopher,Chaveiro,Acessorio,bom estado,UXX2 - 240,1,Aprovado,10,0,744,2022-12-20
+Christine,Relogio,Acessorio,horrivel,MRr2 - 703,1,Aprovado,31,1,537,2023-04-12
+Christine,Mochila,Vestuario,usado,lVl5 - 952,1,Reprovado,77,0,591,2023-07-15
+Kevin,Camisa,Vestuario,saudavel,Ydb2 - 966,1,Aprovado,13,0,803,2022-12-20
+Christy,Camisa,Vestuario,horrivel,GDv7 - 688,0,Aprovado,97,0,595,2023-06-18
+Amy,Garrafa,Utensilio,usado,hBs8 - 760,1,Reprovado,74,1,586,2023-04-21
+Jesus,Garrafa,Utensilio,saudavel,ANt8 - 513,1,Aprovado,18,0,803,2023-11-13
+Christine,Laptop,Eletronico,novo,Vid2 - 882,1,Aprovado,14,1,870,2023-07-26
+Nicholas,Laptop,Eletronico,horrivel,vBA0 - 301,0,Reprovado,29,0,510,2023-04-12
+Jason,Camisa,Vestuario,horrivel,tjx2 - 763,1,Aprovado,33,0,829,2023-09-13
+Kyle,Mochila,Vestuario,saudavel,Jun7 - 586,0,Aprovado,66,0,870,2023-07-26
+Amy,Caneca,Utensilio,usado,bZJ8 - 999,1,Reprovado,97,0,749,2023-11-12
+Christine,Relogio,Acessorio,novo,BXf5 - 888,0,Aprovado,55,1,829,2023-02-03
+Eric,Telefone,Eletronico,bom estado,FbA2 - 995,1,Aprovado,27,1,595,2023-06-18
+Allison,Telefone,Eletronico,saudavel,EOr8 - 898,0,Aprovado,52,1,850,2023-01-16
+Amy,Relogio,Acessorio,bom estado,Uui2 - 172,1,Reprovado,18,1,595,2023-03-20
+Christine,Caneca,Utensilio,novo,sem6 - 464,1,Reprovado,14,0,744,2023-05-22
+Christian,Mochila,Vestuario,novo,WAw7 - 021,0,Reprovado,83,0,586,2023-10-06
+Christian,Caneca,Utensilio,novo,oCo3 - 381,1,Reprovado,34,1,870,2023-05-22
+Alicia,Chaveiro,Acessorio,usado,CbJ8 - 078,1,Reprovado,54,0,595,2023-09-13
+Charles,Relogio,Acessorio,bom estado,siZ4 - 688,0,Aprovado,88,0,589,2023-11-13
+Christine,Caneta,Utensilio,bom estado,Mtn9 - 296,0,Reprovado,48,1,595,2023-11-13
+Julia,Garrafa,Utensilio,usado,pxA5 - 890,0,Reprovado,73,1,854,2022-12-16
+Shannon,Camisa,Vestuario,saudavel,hKK4 - 580,0,Reprovado,25,1,537,2023-05-06
+Jason,Laptop,Eletronico,saudavel,JWZ5 - 230,1,Aprovado,15,1,586,2023-07-15
+Jason,Relogio,Acessorio,usado,uzj6 - 178,0,Reprovado,3,1,586,2023-07-15
+Christine,Garrafa,Utensilio,novo,xdO4 - 934,1,Reprovado,19,1,803,2023-02-03
+Christian,Chaveiro,Acessorio,bom estado,yna5 - 728,0,Aprovado,31,1,854,2023-03-07
+Jason,Telefone,Eletronico,usado,ViB1 - 065,0,Reprovado,89,1,591,2023-04-21
+Christine,Relogio,Acessorio,novo,DdH6 - 512,0,Aprovado,95,0,763,2023-03-07
+Alicia,Garrafa,Utensilio,novo,PkW5 - 774,0,Reprovado,51,0,648,2023-04-04
+Shannon,Telefone,Eletronico,saudavel,VlN5 - 334,1,Reprovado,87,0,572,2023-04-12
+Alicia,Livro,Livro,novo,HCY3 - 359,1,Reprovado,10,0,711,2023-03-20
+Amy,Garrafa,Utensilio,usado,ikf7 - 336,0,Reprovado,56,1,537,2023-10-06
+Julia,Relogio,Acessorio,usado,kIg0 - 764,1,Aprovado,79,0,829,2023-06-18
+Charles,Telefone,Eletronico,horrivel,gzk6 - 491,0,Aprovado,58,1,648,2023-03-07
+Shannon,Livro,Livro,saudavel,RJz2 - 477,1,Aprovado,67,0,574,2022-12-16
+Julia,Mochila,Vestuario,novo,GCt7 - 955,0,Aprovado,99,0,829,2023-04-30
+Charles,Caneta,Utensilio,saudavel,BVS7 - 059,0,Reprovado,76,1,749,2023-04-12
+Kevin,Chaveiro,Acessorio,usado,Xlz6 - 831,0,Aprovado,80,1,711,2022-12-16
+Kevin,Chaveiro,Acessorio,saudavel,spV5 - 551,0,Reprovado,85,0,586,2023-05-06
+Kyle,Caneta,Utensilio,usado,Fbh8 - 570,0,Reprovado,52,1,591,2023-07-15
+Alicia,Relogio,Acessorio,novo,whg8 - 996,1,Reprovado,11,1,850,2023-03-20
+Jesus,Relogio,Acessorio,saudavel,TEG2 - 484,0,Reprovado,52,0,595,2023-04-04
+Christy,Caneca,Utensilio,novo,iHU9 - 115,0,Reprovado,35,1,589,2023-11-12
+Carol,Mochila,Vestuario,usado,Vlc3 - 666,0,Aprovado,59,1,591,2022-12-16
+Jesus,Laptop,Eletronico,bom estado,bqu3 - 808,1,Reprovado,64,0,595,2022-12-16
+Christopher,Garrafa,Utensilio,novo,rNi9 - 439,1,Aprovado,40,1,572,2023-05-06
+Amy,Relogio,Acessorio,usado,wls4 - 720,1,Reprovado,93,1,744,2023-04-12
+Carol,Livro,Livro,novo,uWK3 - 485,0,Reprovado,25,0,586,2022-12-20
+Allison,Caneca,Utensilio,bom estado,OyU5 - 850,0,Reprovado,53,0,829,2023-11-12
+Sherry,Mochila,Vestuario,horrivel,qJE4 - 205,0,Reprovado,87,1,586,2023-03-20
+Christopher,Caneta,Utensilio,bom estado,ykj3 - 631,1,Reprovado,23,0,870,2022-12-16
+Christian,Caneta,Utensilio,bom estado,ddv3 - 937,0,Aprovado,79,0,510,2023-04-12
+Charles,Relogio,Acessorio,saudavel,Fru5 - 968,1,Reprovado,55,0,595,2023-04-21
+Sherry,Telefone,Eletronico,usado,mUq3 - 601,1,Aprovado,69,0,586,2023-04-21
+Kyle,Garrafa,Utensilio,usado,RSF3 - 918,1,Reprovado,68,1,591,2023-05-22
+Carol,Livro,Livro,bom estado,gxL8 - 296,0,Aprovado,21,1,648,2023-07-26
+Brooke,Laptop,Eletronico,saudavel,uwV6 - 678,0,Aprovado,58,0,589,2022-12-16
+Nicholas,Mochila,Vestuario,novo,eQq5 - 124,1,Aprovado,79,0,803,2022-12-20
+Kevin,Caneca,Utensilio,novo,Vuq3 - 369,0,Aprovado,62,1,778,2022-12-20
+Kyle,Telefone,Eletronico,usado,EpQ1 - 232,1,Reprovado,53,1,589,2023-04-21
+Julia,Camisa,Vestuario,saudavel,FMx6 - 636,1,Reprovado,81,1,591,2023-04-12
+Allison,Mochila,Vestuario,novo,dHo0 - 916,1,Reprovado,58,1,572,2023-06-18
+Nicholas,Livro,Livro,saudavel,nDe3 - 104,0,Aprovado,100,0,595,2023-02-03
+Julia,Caneca,Utensilio,saudavel,ugK7 - 818,1,Aprovado,6,0,850,2023-04-04
+Christy,Caneta,Utensilio,usado,jgE7 - 914,0,Reprovado,80,0,595,2022-12-20
+Allison,Laptop,Eletronico,usado,NSB8 - 577,0,Aprovado,58,0,589,2023-05-06
+Christy,Livro,Livro,horrivel,DKQ7 - 461,1,Aprovado,24,1,850,2023-07-15
+Carol,Caneta,Utensilio,horrivel,QbR5 - 416,1,Reprovado,94,0,572,2023-04-12
+Christopher,Relogio,Acessorio,bom estado,Vwv1 - 364,1,Reprovado,48,1,854,2023-11-12
+Nicholas,Caneca,Utensilio,novo,WaR3 - 137,1,Reprovado,30,0,744,2023-06-18
+Julia,Caneca,Utensilio,saudavel,MRT9 - 675,0,Reprovado,63,0,648,2023-04-30
+Shannon,Livro,Livro,usado,fJm7 - 521,0,Aprovado,37,1,595,2023-04-12
+Kevin,Chaveiro,Acessorio,novo,VAH3 - 418,1,Reprovado,84,0,574,2023-01-16
+Christine,Camisa,Vestuario,usado,VMP2 - 538,1,Reprovado,27,1,829,2023-09-13
+Christine,Garrafa,Utensilio,horrivel,BPz2 - 054,1,Reprovado,19,0,744,2023-09-13
+Kevin,Telefone,Eletronico,bom estado,vRk3 - 353,0,Reprovado,55,1,510,2023-01-16
+Eric,Relogio,Acessorio,horrivel,ZwY1 - 700,0,Aprovado,28,1,595,2022-12-20
+Taylor,Chaveiro,Acessorio,bom estado,lHU3 - 259,0,Reprovado,9,0,711,2023-09-13
+Nicholas,Garrafa,Utensilio,novo,Rze8 - 444,0,Reprovado,5,1,850,2023-07-15
+Eric,Livro,Livro,horrivel,JZM9 - 664,0,Aprovado,28,1,803,2023-05-06
+Jesus,Livro,Livro,horrivel,NNW8 - 232,0,Aprovado,0,1,537,2023-05-06
+Eric,Livro,Livro,usado,Kae8 - 240,1,Aprovado,70,1,850,2023-05-06
+Amy,Relogio,Acessorio,novo,IBb4 - 294,1,Reprovado,28,1,744,2023-11-13
+Jesus,Relogio,Acessorio,novo,CtN5 - 803,0,Reprovado,26,1,589,2023-02-03
+Taylor,Mochila,Vestuario,novo,KHy1 - 117,0,Aprovado,75,1,749,2023-11-13
+Kevin,Caneca,Utensilio,novo,Ggs2 - 259,1,Reprovado,43,1,854,2023-04-04
+Allison,Chaveiro,Acessorio,saudavel,Fxi3 - 321,0,Reprovado,69,1,595,2023-06-18
+Eric,Caneca,Utensilio,horrivel,GCe9 - 741,0,Aprovado,96,0,510,2023-04-12
+Brooke,Laptop,Eletronico,usado,RCc1 - 402,0,Aprovado,19,0,744,2023-03-20
+Nicholas,Chaveiro,Acessorio,usado,MLr3 - 794,1,Reprovado,86,0,763,2023-04-04
+Amy,Garrafa,Utensilio,novo,QsE4 - 543,1,Reprovado,76,0,749,2023-03-20
+Christy,Laptop,Eletronico,horrivel,EVU5 - 939,1,Aprovado,86,1,870,2022-12-20
+Allison,Relogio,Acessorio,novo,mEF9 - 234,0,Aprovado,62,0,870,2022-12-16
+Christian,Relogio,Acessorio,bom estado,xHR0 - 090,0,Reprovado,12,0,850,2023-06-18
+Amy,Laptop,Eletronico,saudavel,LWC3 - 794,0,Reprovado,75,0,850,2023-11-13
+Kevin,Telefone,Eletronico,bom estado,uTj7 - 826,0,Aprovado,99,1,829,2023-06-18
