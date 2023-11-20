@@ -1,58 +1,46 @@
 
-## Gerenciador de Transações
-Este projeto inclui um gerenciador de transações que permite a um gerente realizar o balanço de vendas e gerar relatórios de vendas.
+<p align="center">
+![image](https://github.com/Zythee3/convenience-haven/assets/131277691/e60f811f-ecf1-4dd7-b48c-00971b4d8c5f)
+</p>
 
-### Funcionalidades do Gerente
-O gerente tem acesso a uma funcionalidade que permite realizar o balanço de vendas. Isso permite que o gerente verifique as transações realizadas em um determinado período.
 
-### Filtragem de Vendas
-É possível filtrar as vendas por data, categoria de produto e valor total. Isso permite que o gerente veja apenas as transações que atendem a critérios específicos.
+###Convenience Haven
+Este projeto é um sistema de gerenciamento para a loja Convenience Haven. Ele permite que o gerente da loja acesse relatórios e estatísticas sobre a atividade do sistema.
 
-### Relatórios de Vendas
-Os relatórios de vendas apresentam dados como o total de vendas, os itens trocados e os produtos mais populares. Isso fornece uma visão geral do desempenho das vendas.
+##Funcionalidades
+Relatórios e Estatísticas
+O gerente tem acesso a relatórios e estatísticas sobre a atividade do sistema. Isso inclui:
 
-### Como usar
-Para usar o gerenciador de transações, crie uma instância da classe Manager e use os métodos fornecidos para realizar o balanço de vendas, filtrar vendas e gerar relatórios.
+-Número de itens cadastrados
+-Número de itens avaliados
+-Número de itens trocados
+-Número de itens doados
+Essas informações são essenciais para o gerente entender a atividade da loja e tomar decisões informadas.
 
-### Por exemplo:
+##Geração de Relatórios
+O gerente também tem acesso a uma funcionalidade de geração de relatórios sobre as vendas e trocas realizadas na loja. Isso permite que o gerente acompanhe as vendas e trocas ao longo do tempo e identifique tendências ou problemas.
 
+##Como usar
+Para gerar um relatório, o gerente deve abrir a janela de relatórios e selecionar as datas de início e fim para o relatório. Em seguida, o gerente pode selecionar a categoria para a qual deseja gerar o relatório. Se nenhuma categoria for selecionada, o relatório será gerado para todas as categorias.
+
+Depois que o gerente selecionar as opções desejadas, ele pode clicar no botão "Gerar relatório" para gerar o relatório. O sistema então gera o relatório e exibe uma mensagem informando que o relatório está sendo gerado.
+
+##Código
+O código para este projeto está contido em vários arquivos Python:
+
+-menu.py: Este arquivo contém o código para a interface do usuário do sistema. Ele permite que o gerente selecione as opções para o relatório e gera o relatório quando o gerente clica no botão "Gerar relatório".
+-gera_relatorio.py: Este arquivo contém o código para gerar o relatório. Ele pega as opções selecionadas pelo gerente e usa essas opções para gerar o relatório.
+-graficos.py: Este arquivo contém o código para gerar os gráficos que são incluídos no relatório.
+##Requisitos
+Este projeto requer as seguintes bibliotecas Python:
+
+-PIL
+-tkinter
+-tkcalendar
+-pandas
+
+Você pode instalar essas bibliotecas usando pip:
 ```
-manager = Manager('itensregistrados.csv')
-
-# Define the start and end dates for the report
-# Defina o inicio e o fim da data de relatorio
-
-start_date = datetime.strptime('2022-01-01', '%Y-%m-%d')
-end_date = datetime.strptime('2023-12-31', '%Y-%m-%d')
-
-# Generate a report for a specific category and minimum total value
-# Gerar um relatório para uma categoria específica e valor total mínimo.
-
-report = manager.generate_report(start_date, end_date, 'category', 0)
-
-# Print the report
-print(report)
+pip install pillow tkinter tkcalendar pandas
 ```
-
-
-## **Gerador de Dados de Transações**
-Este projeto inclui um gerador de dados de transações que cria um conjunto de dados aleatórios para simular transações de vendas. O gerador cria um arquivo CSV com 20 linhas de dados, cada uma representando uma transação única.
-
-### Funcionalidades do Gerente
-O gerente tem acesso a uma funcionalidade que permite realizar o balanço de vendas. Isso permite que o gerente verifique as transações realizadas em um determinado período.
-
-### Filtragem de Vendas
-É possível filtrar as vendas por data, categoria de produto e valor total. Isso permite que o gerente veja apenas as transações que atendem a critérios específicos.
-
-### Relatórios de Vendas
-Os relatórios de vendas apresentam dados como o total de vendas, os itens trocados e os produtos mais populares. Isso fornece uma visão geral do desempenho das vendas.
-
-### Como usar
-Para usar o gerador de dados de transações, execute o script gerador.py. Isso criará um arquivo itensregistrados.csv com 20 linhas de dados de transações.
-
-Para usar a funcionalidade do gerente, crie uma instância da classe Manager e use os métodos fornecidos para realizar o balanço de vendas, filtrar vendas e gerar relatórios.
-
-## Dependências
-Este projeto usa as bibliotecas faker e random do Python para gerar dados aleatórios. Certifique-se de instalar essas bibliotecas antes de executar o script.
-
 
