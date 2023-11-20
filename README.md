@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="![image](https://github.com/Zythee3/convenience-haven/assets/131277691/af3bca88-7dfc-4c00-ab34-74f3afe774ec)" alt="Alternate Text" />
+  <img src="image.png" alt="Alternate Text" />
 </p>
 
 
